@@ -42,6 +42,7 @@ export const NameGame: React.FC = () => {
         const v = localStorage.getItem('bestTime');
         return v ? parseInt(v) : null;
     });
+    const [showInfo, setShowInfo] = useState(false);
 
     // load names
     useEffect(() => {
@@ -171,7 +172,7 @@ export const NameGame: React.FC = () => {
         };
         window.addEventListener('keydown', handler);
         return () => window.removeEventListener('keydown', handler);
-    }, []);
+    }, [restart]);
 
     useEffect(() => { inputRef.current?.focus(); }, [restart]);
 
@@ -206,9 +207,43 @@ export const NameGame: React.FC = () => {
 
     return (
         <section id="game" className="game-shell max-w-4xl mx-auto p-4 pb-12 flex flex-col min-h-screen">
-            <header className="flex flex-col sm:flex-row gap-6 items-start sm:items-center justify-between mb-4">
-                <h1 className="h2 font-semibold tracking-tight">Name 100 Women</h1>
+            <header className="flex flex-col sm:flex-row gap-6 items-start sm:items-center justify-between mb-4 relative">
+                <div className="flex items-center gap-2">
+                    <h1 className="h2 font-semibold tracking-tight m-0">Name 100 Women</h1>
+                    <button
+                        type="button"
+                        onClick={() => { setShowInfo(o => { const n = !o; if (!o && typeof track === 'function') track('info_open'); return n; }); }}
+                        aria-label="How to play"
+                        aria-haspopup="dialog"
+                        aria-expanded={showInfo}
+                        aria-controls="game-info-panel"
+                        className="w-6 h-6 inline-flex items-center justify-center rounded-full border border-[oklch(70%_0.05_340)] text-[oklch(40%_0.153_2.432)] text-xs font-bold hover:bg-[oklch(95%_0.03_340)] focus:outline-none focus:ring-2 focus:ring-[oklch(55%_0.2_340)]"
+                    >i</button>
+                </div>
                 <div className="text-2xl font-mono tabular-nums px-4 py-2 rounded var(--radius-box) bg-[oklch(94%_0.028_342.258)]" aria-live="polite" aria-label="Time remaining">{formatTime(remaining)}</div>
+                {showInfo && (
+                    <div
+                        id="game-info-panel"
+                        role="dialog"
+                        aria-label="How to play"
+                        className="absolute z-20 top-full left-0 mt-2 max-w-sm p-4 rounded-xl border border-[oklch(89%_0.061_343.231)] bg-white shadow-lg text-sm leading-snug space-y-2"
+                    >
+                        <p><strong>Objective:</strong> Name 100 famous / influential women within 10 minutes to win.</p>
+                        <ul className="list-disc pl-5 space-y-1">
+                            <li>Timer starts on your first submission.</li>
+                            <li>Type a full name and press Enter or Verify.</li>
+                            <li>Duplicates don&apos;t count.</li>
+                            <li>Reset anytime with the R key.</li>
+                        </ul>
+                        <div className="flex justify-end pt-1">
+                            <button
+                                type="button"
+                                onClick={() => setShowInfo(false)}
+                                className="text-xs font-medium px-2 py-1 rounded border border-[oklch(80%_0.04_340)] hover:bg-[oklch(95%_0.03_340)]"
+                            >Close</button>
+                        </div>
+                    </div>
+                )}
             </header>
             <form className="flex flex-col sm:flex-row gap-3 items-stretch game-input-wrapper" aria-label="Input section" onSubmit={e => { e.preventDefault(); handleVerify(); }}>
                 <div className="field flex-1">
@@ -304,8 +339,21 @@ export const NameGame: React.FC = () => {
                     </div>
                 </div>
             )}
-            <footer className="mt-10 text-center text-xs text-[oklch(40%_0.153_2.432_/_0.55)]">
-                &copy; {(new Date()).getFullYear()} Name 100 Women
+            <footer className="mt-10 text-center text-xs text-[oklch(40%_0.153_2.432_/_0.55)] flex flex-col sm:flex-row items-center justify-center gap-3">
+                <span>&copy; {(new Date()).getFullYear()} Name 100 Women</span>
+                <a
+                    href="https://github.com/billydyball/name-100-women"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="underline hover:no-underline focus:outline-none focus:ring-2 focus:ring-[oklch(55%_0.2_340)] rounded"
+                    aria-label="View source code on GitHub"
+                >GitHub</a>
+                <button
+                    type="button"
+                    onClick={share}
+                    className="underline hover:no-underline focus:outline-none focus:ring-2 focus:ring-[oklch(55%_0.2_340)] rounded cursor-pointer"
+                    aria-label="Share this game"
+                >Share</button>
             </footer>
         </section>
     );
