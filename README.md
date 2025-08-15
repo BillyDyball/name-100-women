@@ -1,40 +1,67 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/pages/api-reference/create-next-app).
+# Name 100 Women
 
-## Getting Started
+A fast little browser game: given 10 minutes, how many notable / influential women can you list? Your goal is to reach 100 before the timer expires. The timer only starts after your first submission so you can get ready.
 
-First, run the development server:
+## Gameplay
+- Objective: enter 100 distinct full names of women in 10 minutes.
+- Timer starts on your first attempt.
+- Press Enter or click Verify to submit a name.
+- Duplicate or unknown names are rejected.
+- Press R (or the Reset button) any time to start over.
+- Progress & personal best are stored locally in your browser (no accounts).
+- Share button lets you copy / share a link and (if you win) your time.
 
+## Tech Stack
+- Next.js 15 (App served via Pages Router here)
+- React 19
+- Tailwind CSS (v4 postcss pipeline)
+- TypeScript
+- Lightweight client‑side analytics (PostHog)
+
+## Run Locally
 ```bash
+# 1. Clone
+git clone https://github.com/billydyball/name-100-women.git
+cd name-100-women
+
+# 2. Install deps (pick one)
+npm install  # or yarn install / pnpm install / bun install
+
+# 3. Start dev server
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+```
+Open http://localhost:3000
+
+### Tests
+```bash
+npm test
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### Lint
+```bash
+npm run lint
+```
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+## Build for Production
+```bash
+npm run build
+npm start   # serves the production build
+```
 
-[API routes](https://nextjs.org/docs/pages/building-your-application/routing/api-routes) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
+## Deployment
+Optimized for Vercel (zero config). Any Node host that can run `npm run build && npm start` will work.
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/pages/building-your-application/routing/api-routes) instead of React pages.
+## Project Structure (trimmed)
+```
+src/
+  components/NameGame.tsx   # Main game component
+  lib/                      # Canonicalization, loading list, analytics
+  pages/                    # Next.js pages
+public/names.txt            # Source list of accepted names
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/pages/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## Contributing
+Simple ideas (accessibility tweaks, more names, performance) are welcome. Open an issue or PR.
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn-pages-router) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/pages/building-your-application/deploying) for more details.
+## License
+MIT
