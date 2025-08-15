@@ -2,6 +2,7 @@
 import React, { useCallback, useEffect, useMemo, useRef, useState } from 'react';
 import { canonicalize } from '../lib/canonicalize';
 import { loadNames } from '../lib/loadNames';
+import { track } from '@/lib/analytics';
 
 interface AcceptedName {
     key: string;
@@ -49,9 +50,11 @@ export const NameGame: React.FC = () => {
             if (!active) return;
             setNameMap(map);
             setFeedback({ type: '', msg: '' });
+            track('names_loaded', { count: map.size });
         }).catch(err => {
             console.error(err);
             setFeedback({ type: 'invalid', msg: 'Failed to load names' });
+            track('names_load_error');
         });
         return () => { active = false; };
     }, []);
@@ -84,6 +87,100 @@ export const NameGame: React.FC = () => {
         };
     }, [started, finished]);
 
+    const handleVerify = useCallback(() => {
+        if (!nameMap) return;
+        if (finished) return;
+        const raw = input.trim();
+        if (!raw) return;
+        if (started == null) setStarted(Date.now()); // start timer on first attempt
+        const key = canonicalize(raw);
+        if (!nameMap.has(key)) {
+            setFeedback({ type: 'invalid', msg: 'Not found' });
+            track('name_invalid', { value: raw });
+            return;
+        }
+        if (acceptedKeys.has(key)) {
+            setFeedback({ type: 'duplicate', msg: 'Already entered' });
+            track('name_duplicate', { key });
+            return;
+        }
+        // accept
+        const fullName = nameMap.get(key)!;
+        setAccepted(prev => [{ key, display: fullName, timestamp: Date.now() }, ...prev]);
+        track('name_accepted', { key, display: fullName, total: accepted.length + 1 });
+        setFeedback({ type: 'success', msg: "" });
+        setInput('');
+        inputRef.current?.focus();
+    }, [input, nameMap, acceptedKeys, finished, started, accepted.length]);
+
+    const progress = accepted.length;
+    const percent = Math.min(100, (progress / TOTAL_TARGET) * 100);
+
+    const restart = useCallback(() => {
+        const previousCount = accepted.length;
+        const previousWin = win;
+        const timeTaken = START_SECONDS - remaining;
+        track('game_reset', { previousCount, previousWin, timeTaken });
+        setInput('');
+        setAccepted([]);
+        setFeedback({ type: '', msg: '' });
+        setStarted(null);
+        setRemaining(START_SECONDS);
+        setFinished(false);
+        setWin(false);
+        if (intervalRef.current) {
+            window.clearInterval(intervalRef.current);
+            intervalRef.current = null;
+        }
+        setTimeout(() => inputRef.current?.focus(), 0);
+    }, [accepted.length, win, remaining]);
+
+    const share = async () => {
+        const url = window.location.href;
+        const text = win ? `I named 100 women in ${formatTime(START_SECONDS - remaining)}!` : `I named ${progress} women. Can you name 100?`;
+        track('share_click', { win, progress, time: START_SECONDS - remaining });
+        if (navigator.share) {
+            try {
+                await navigator.share({ title: 'Oh, you like women? Name 100 Women', text, url });
+                track('share_native_success');
+            } catch {
+                track('share_native_cancel');
+            }
+        } else {
+            try {
+                await navigator.clipboard.writeText(url);
+                setFeedback({ type: 'success', msg: 'Link copied to clipboard' });
+                track('share_clipboard_success');
+            } catch {
+                alert('Copy this link: ' + url);
+                track('share_clipboard_fail');
+            }
+        }
+    };
+
+    // Add keyboard shortcut for Reset (R) outside of the input field
+    useEffect(() => {
+        const handler = (e: KeyboardEvent) => {
+            if (e.key.toLowerCase() === 'r') {
+                // avoid triggering while typing in the input
+                const active = document.activeElement;
+                if (active && (active.tagName === 'INPUT' || active.tagName === 'TEXTAREA' || (active as HTMLElement).isContentEditable)) return;
+                e.preventDefault();
+                restart();
+            }
+        };
+        window.addEventListener('keydown', handler);
+        return () => window.removeEventListener('keydown', handler);
+    }, []);
+
+    useEffect(() => { inputRef.current?.focus(); }, [restart]);
+
+    useEffect(() => {
+        if (started != null && accepted.length === 0) {
+            track('game_started');
+        }
+    }, [started, accepted.length]);
+
     useEffect(() => {
         if (accepted.length === TOTAL_TARGET && !finished) {
             setFinished(true);
@@ -103,70 +200,9 @@ export const NameGame: React.FC = () => {
                 setBestTime(timeTaken);
                 localStorage.setItem('bestTime', String(timeTaken));
             }
+            track('game_win', { timeTaken, bestScore: accepted.length, bestTime: timeTaken });
         }
     }, [accepted, finished, remaining, bestScore, bestTime]);
-
-    const handleVerify = useCallback(() => {
-        if (!nameMap) return;
-        if (finished) return;
-        const raw = input.trim();
-        if (!raw) return;
-        if (started == null) setStarted(Date.now()); // start timer on first attempt
-        const key = canonicalize(raw);
-        if (!nameMap.has(key)) {
-            setFeedback({ type: 'invalid', msg: 'Not found' });
-            return;
-        }
-        if (acceptedKeys.has(key)) {
-            setFeedback({ type: 'duplicate', msg: 'Already entered' });
-            return;
-        }
-        // accept
-        const fullName = nameMap.get(key)!;
-        setAccepted(prev => [{ key, display: fullName, timestamp: Date.now() }, ...prev]);
-        setFeedback({ type: 'success', msg: "" });
-        setInput('');
-        inputRef.current?.focus();
-    }, [input, nameMap, acceptedKeys, finished, started]);
-
-    const progress = accepted.length;
-    const percent = Math.min(100, (progress / TOTAL_TARGET) * 100);
-
-    const restart = () => {
-        setInput('');
-        setAccepted([]);
-        setFeedback({ type: '', msg: '' });
-        setStarted(null);
-        setRemaining(START_SECONDS);
-        setFinished(false);
-        setWin(false);
-        if (intervalRef.current) {
-            window.clearInterval(intervalRef.current);
-            intervalRef.current = null;
-        }
-        setTimeout(() => inputRef.current?.focus(), 0);
-    };
-
-    const share = async () => {
-        const url = window.location.href;
-        const text = win ? `I named 100 women in ${formatTime(START_SECONDS - remaining)}!` : `I named ${progress} women. Can you name 100?`;
-        if (navigator.share) {
-            try {
-                await navigator.share({ title: 'Name 100 Women', text, url });
-            } catch {
-                // ignore
-            }
-        } else {
-            try {
-                await navigator.clipboard.writeText(url);
-                setFeedback({ type: 'success', msg: 'Link copied to clipboard' });
-            } catch {
-                alert('Copy this link: ' + url);
-            }
-        }
-    };
-
-    useEffect(() => { inputRef.current?.focus(); }, []);
 
     return (
         <section id="game" className="game-shell max-w-4xl mx-auto p-4 pb-12 flex flex-col min-h-screen">
@@ -174,7 +210,6 @@ export const NameGame: React.FC = () => {
                 <h1 className="h2 font-semibold tracking-tight">Name 100 Women</h1>
                 <div className="text-2xl font-mono tabular-nums px-4 py-2 rounded var(--radius-box) bg-[oklch(94%_0.028_342.258)]" aria-live="polite" aria-label="Time remaining">{formatTime(remaining)}</div>
             </header>
-            <div className="text-sm text-[oklch(40%_0.153_2.432)] mb-4">Target: {TOTAL_TARGET}</div>
             <form className="flex flex-col sm:flex-row gap-3 items-stretch game-input-wrapper" aria-label="Input section" onSubmit={e => { e.preventDefault(); handleVerify(); }}>
                 <div className="field flex-1">
                     <label htmlFor="nameInput">Enter a name</label>
@@ -199,9 +234,15 @@ export const NameGame: React.FC = () => {
                         type="submit"
                         disabled={!input.trim() || !nameMap || finished}
                         className="btn btn-primary flex-1"
-                        aria-label="Verify name"
-                    >Verify</button>
-                    <button type="button" onClick={restart} className="btn btn-secondary flex-1" aria-label="Restart game">Restart</button>
+                        aria-label="Verify name (Enter)"
+                    >
+                        <span>Verify</span>
+                        <span className="key-hint" aria-hidden="true">Enter</span>
+                    </button>
+                    <button type="button" onClick={restart} className="btn btn-secondary flex-1" aria-label="Reset game (R)">
+                        <span>Reset</span>
+                        <span className="key-hint" aria-hidden="true">R</span>
+                    </button>
                 </div>
             </form>
             <div className="mt-3 min-h-10" aria-live="polite" aria-atomic="true">
@@ -235,7 +276,7 @@ export const NameGame: React.FC = () => {
             {(finished) && (
                 <div className="mt-6 flex gap-3">
                     <button onClick={share} className="btn btn-accent" aria-label="Share results">Share</button>
-                    <button onClick={restart} className="btn btn-secondary" aria-label="Restart">Restart</button>
+                    <button onClick={restart} className="btn btn-secondary" aria-label="Reset">Reset <span className="key-hint" aria-hidden="true">R</span></button>
                 </div>
             )}
             {finished && (
@@ -247,7 +288,7 @@ export const NameGame: React.FC = () => {
                                 <p className="mb-6">You named all 100 women. Share your result?</p>
                                 <div className="flex gap-2">
                                     <button onClick={share} className="btn btn-primary">Share</button>
-                                    <button onClick={restart} className="btn btn-secondary">Restart</button>
+                                    <button onClick={restart} className="btn btn-secondary">Reset <span className="key-hint" aria-hidden="true">R</span></button>
                                 </div>
                             </>
                         ) : (
@@ -256,7 +297,7 @@ export const NameGame: React.FC = () => {
                                 <p className="mb-6">You named {progress}. Try again.</p>
                                 <div className="flex gap-2">
                                     <button onClick={share} className="btn btn-primary">Share</button>
-                                    <button onClick={restart} className="btn btn-secondary">Restart</button>
+                                    <button onClick={restart} className="btn btn-secondary">Reset <span className="key-hint" aria-hidden="true">R</span></button>
                                 </div>
                             </>
                         )}
