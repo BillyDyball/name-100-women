@@ -1,5 +1,6 @@
 import { Geist, Geist_Mono } from "next/font/google";
 import { NameGame } from "../components/NameGame";
+import Head from "next/head";
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
@@ -13,14 +14,14 @@ const geistMono = Geist_Mono({
 export default function Home() {
   return (
     <div className={`${geistSans.className} ${geistMono.className}`}>
-      <head>
+      <Head>
         <title>Name 100 Women</title>
         <link rel="icon" href="/favicon.ico" sizes="any" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <meta name="description" content="A game to name 100 famous women from history and today." />
         <meta name="author" content="Billy Dyball" />
         <meta name="keywords" content="name game, puzzle, women, history, celebrity, trivia" />
-      </head>
+      </Head>
       <NameGame />
     </div>
   );
