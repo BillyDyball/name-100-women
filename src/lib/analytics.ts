@@ -18,7 +18,7 @@ export function initAnalytics() {
     const key = process.env.NEXT_PUBLIC_POSTHOG_KEY;
     if (!key) return;
     posthog.init(key, {
-        api_host: process.env.NEXT_PUBLIC_POSTHOG_HOST || 'https://app.posthog.com',
+        api_host: window.location.origin + '/relay-iT7i',
         capture_pageview: true,
         capture_pageleave: true,
     });
