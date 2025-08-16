@@ -60,6 +60,12 @@ src/
 public/names.txt            # Source list of accepted names
 ```
 
+## Dataset
+
+Data for this project was collected from the pantheon 2.0 `2025 Person Dataset`.
+
+> https://pantheon.world/data/datasets
+
 ## Contributing
 Simple ideas (accessibility tweaks, more names, performance) are welcome. Open an issue or PR.
 
