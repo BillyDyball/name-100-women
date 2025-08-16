@@ -377,7 +377,7 @@ Yurizan Beltran
 Yurisleidy Lupetey
 Yurisel Laborde
 Yurina Kumai
-Princess Mikasa
+Yuriko
 Yuriko Yoshitaka
 Yuriko Shima
 Yuriko Mizuma
@@ -495,6 +495,7 @@ Yukie Nakama
 Yuki Yokosawa
 Yuki Urushibara
 Yuki Tsuchihashi
+Yuki Sakai
 Yuki Oshitani
 Yuki Niizawa
 Yūki Nagasato
@@ -559,6 +560,7 @@ Yū Aoi
 Ysaora Thibus
 Ysaline Bonaventure
 Yrsa Sigurðardóttir
+Youssouf Koné
 Youssef En-Nesyri
 Youssef Chahed
 Youssef Aït Bennasser
@@ -608,14 +610,14 @@ Yoo Ah-in
 Yonkaira Peña
 Yolka
 Yolandi Visser
-Duchess of Lorraine
+Yolande
 Yolande of Valois
-Queen of Scotland
-Duchess of Burgundy
-Duchess of Calabria
+Yolande of Dreux
+Yolande of Dreux
+Yolande of Aragon
 Yolande of Aragon
 Yolande Moreau
-Countess of Nevers
+Yolande II
 Yolande de Polastron
 Yolanda Soler
 Yolanda of Poland
@@ -816,6 +818,8 @@ Yang Zhaoxuan
 Yang Young-ja
 Yang You
 Yang Yilin
+Yang Yang
+Yang Yang
 Yang Xiuli
 Yang Xiaolei
 Yang Wenyi
@@ -1003,16 +1007,16 @@ William Samuel Johnson
 William Lai
 William Kentridge
 William Kamkwamba
-Landgrave of Hesse-Kassel
-Duke of Bavaria
-Count of Hainaut
-Duke of Bavaria
-Count of Boulogne
+William IV
+William III
+William II
+William I
+William I
 William Hickey
 William Henrique
 William Gibson
 William Friese-Greene
-Prince of Nassau-Dietz
+William Frederick
 William Demarest
 William Burges
 William Bradford
@@ -1025,12 +1029,12 @@ Willa Fitzgerald
 Willa Cather
 Will Robson Emilio Andrade
 Wilhelmine Schröder-Devrient
-Queen of the Netherlands
-Margravine of Brandenburg-Bayreuth
+Wilhelmine of Prussia
+Wilhelmine of Prussia
 Wilhelmine Amalia of Brunswick-Lüneburg
 Wilhelmina von Bremen
 Wilhelmina of the Netherlands
-Princess of Orange
+Wilhelmina of Prussia
 Wilhelmina Drucker
 Wilhelmina Cooper
 Wilhelm Worringer
@@ -1178,7 +1182,7 @@ Wallada bint al-Mustakfi
 Wallace Oliveira
 Wallace de Souza
 Waleska Soto
-Duke of Limburg
+Waleran III
 Waldrada
 Waldir Peres
 Walburga Habsburg Douglas
@@ -1312,7 +1316,7 @@ Virginia Ruano Pascual
 Virginia Rappe
 Virginia Raggi
 Virginia Pearson
-Countess of Castiglione
+Virginia Oldoini
 Virginia McKenna
 Virginia Mayo
 Virginia Madsen
@@ -1453,8 +1457,8 @@ Vida Guerra
 Vida Goldstein
 Victoriya Kalinina
 Victorine Meurent
-Princess Royal
-Crown Princess of Sweden
+Victoria
+Victoria
 Victoria Zhilinskayte
 Victoria Zdrok
 Victoria Woodhull
@@ -1510,6 +1514,7 @@ Victoria Beckham
 Victoria Azarenka
 Victoria Amelina
 Victoria Abril
+Victor Wong
 Victor Rasuk
 Victor Osimhen
 Victor Marijnen
@@ -1817,7 +1822,7 @@ Valentine Hugo
 Valentine Fortin
 Valentina Zenere
 Valentina Yegorova
-Duchess of Orléans
+Valentina Visconti
 Valentina Vezzali
 Valentina Vargas
 Valentina Tserbe-Nessina
@@ -1912,8 +1917,8 @@ Urraca Sánchez of Pamplona
 Urraca of Zamora
 Urraca of Portugal
 Urraca of León
-Queen of Portugal
-Queen of Navarre
+Urraca of Castile
+Urraca of Castile
 Urraca Fernández
 Urmila Matondkar
 Urassaya Sperbund
@@ -1952,7 +1957,7 @@ Ulrike Holzner
 Ulrike Bruns
 Ulrika Pasch
 Ulrika Knape
-Queen of Sweden
+Ulrika Eleonora
 Ulrika Eleonora of Denmark
 Ulrika Babiaková
 Ulrich Robeiri
@@ -2047,7 +2052,7 @@ Tse Ying Suet
 Tsarevna Catherine Ivanovna of Russia
 Tsai Ing-wen
 Tsai Chin
-Respicius
+Tryphon
 Tryphaena
 Truganini
 Trudi Canavan
@@ -2215,6 +2220,7 @@ Tomohiko Miyazaki
 Tomoe Kato
 Tomoe Gozen
 Tommy Svensson
+Tommy Smith
 Tommy Robinson
 Tommy Nilsson
 Tommy Dorfman
@@ -2268,6 +2274,7 @@ Tinkara Kovač
 Tinka Kurti
 Tinja-Riikka Korpela
 Tini Wagner
+Tinga
 Ting Hua-tien
 Tinatin Dalakishvili
 Tinashe
@@ -2425,7 +2432,7 @@ Therese Comodini Cachia
 Thérèse Coffey
 Therese Brandl
 Therese Alshammar
-Countess of Portugal
+Theresa
 Theresa Weld
 Theresa Villiers
 Thérésa Tallien
@@ -2433,8 +2440,8 @@ Theresa Stoll
 Theresa Saldana
 Theresa Russell
 Theresa Randle
-Queen of León
-Countess of Flanders
+Theresa of Portugal
+Theresa of Portugal
 Theresa May
 Theresa Kunegunda Sobieska
 Theresa Kachindamoto
@@ -2448,19 +2455,19 @@ Theophano
 Theon of Smyrna
 Théodrate of Troyes
 Theodote
-wife of Leo V
+Theodosia
 Theodosia Okoh
-Margrave of Meissen
+Theodoric I
 Théodore Sindikubwabo
 Theodore of Corsica
-daughter of Constantine VII
+Theodora
 Theodora Porphyrogenita
 Theodora Palaiologina
 Theodora of Trebizond
 Theodora of Khazaria
 Theodora Kroeber
-Queen of Jerusalem
-Duchess of Austria
+Theodora Komnene
+Theodora Komnene
 Theodora Komnene
 Theodora Kantakouzene
 Theodora Kantakouzene
@@ -2484,7 +2491,7 @@ Thelma Houston
 Thelma Hopkins
 Thelma Coyne Long
 Thelma Aldana
-wife of Michael II
+Thekla
 Thekla Reuten
 Thekla Resvoll
 Theda Skocpol
@@ -2510,7 +2517,7 @@ Thaisa
 Thaís Fidélis
 Thaïs
 Thaïs
-Thae Su Nyein
+Miss Grand Myanmar 2024
 Thaddeus of Edessa
 Teyonah Parris
 Teyana Taylor
@@ -3002,6 +3009,7 @@ Takeshi Honda
 Takeo Matsuda
 Takehisa Sakamoto
 Takayuki Tada
+Takayuki Suzuki
 Takayuki Odajima
 Takayuki Nakahara
 Takayuki Funayama
@@ -3118,7 +3126,7 @@ Sylvanus Morley
 Sylvanie Burton
 Sylva Koscina
 Sylke Otto
-Lady Morgan
+Sydney
 Sydney Tamiia Poitier
 Sydney Sweeney
 Sydney Romero
@@ -3224,7 +3232,7 @@ Suzuka Nakamoto
 Suzu Hirose
 Suzi Quatro
 Suze Randall
-Duchess of Bourbon
+Suzanne
 Suzanne Vega
 Suzanne Valadon
 Suzanne Tamim
@@ -3346,7 +3354,7 @@ Susan Helms
 Susan Hayward
 Susan Hampshire
 Susan Haack
-Baroness Greenfield
+Susan Greenfield
 Susan Glaspell
 Susan George
 Susan George
@@ -3532,10 +3540,10 @@ Stephenson King
 Stephenie Meyer
 Stephenie Ann McPherson
 Stephen S. Oswald
-Duke of Bavaria
+Stephen II
 Stephen Carpenter
 Stephen Barclay
-Hereditary Grand Duchess of Luxembourg
+Stéphanie
 Stephanie Zimbalist
 Stephanie Wilson
 Stephanie Vogt
@@ -3576,7 +3584,7 @@ Stephanie Graf
 Stephanie Gilmore
 Stéphanie Frappart
 Stéphanie Foretz
-comtesse de Genlis
+Stéphanie Félicité
 Stéphanie Dubois
 Stephanie Dickins
 Stephanie Devaux-Lovell
@@ -3592,6 +3600,7 @@ Stephanie Beatriz
 Stephanie Beacham
 Stephanie Balduccini
 Stephanie Au
+Stephanie
 Stephania Haralabidis
 Stéphane Audran
 Steph Houghton
@@ -3740,11 +3749,11 @@ Sopiko Guramishvili
 Sophonisba
 Sopho Khalvashi
 Sopho Gelovani
-Princess of Albania
-Hereditary Princess of Liechtenstein
-Duchess of Hohenberg
-Countess of Wessex
-Countess of Bar
+Sophie
+Sophie
+Sophie
+Sophie
+Sophie
 Sophie Winkleman
 Sophie Wilson
 Sophie Wilmès
@@ -3762,7 +3771,7 @@ Sophie Schmidt
 Sophie Rundle
 Sophie Okonedo
 Sophie of Württemberg
-Duchess of Brabant
+Sophie of Thuringia
 Sophie of Pomerania
 Sophie of Mecklenburg-Güstrow
 Sophie of France
@@ -3834,8 +3843,8 @@ Sophia Loren
 Sophia Lillis
 Sophia Kianni
 Sophia Jex-Blake
-Margravine of Brandenburg-Ansbach
-Duchess of Brunswick-Lüneburg
+Sophia Jagiellon
+Sophia Jagiellon
 Sophia Hedwig of Brunswick-Lüneburg
 Sophia Hayden
 Sophia Flörsch
@@ -3851,7 +3860,7 @@ Sophia Bush
 Sophia Brahe
 Sophia Ali
 Sophia Alekseyevna of Russia
-Abbess of Quedlinburg
+Sophia Albertina
 Sophia
 Soong Mei-ling
 Soong Ching-ling
@@ -4088,7 +4097,7 @@ Siri Hustvedt
 Siri Arun Budcharern
 Sirarpie Der Nersessian
 Siraba Dembélé Pavlović
-1st Baronet
+Sir John Pringle
 Siouxsie Sioux
 Siobhan-Marie O'Connor
 Siobhán Haughey
@@ -4247,7 +4256,7 @@ Signe Toly Anderson
 Signe Hasso
 Signe Bruun
 Signe Bro
-Archduke of Austria
+Sigismund Francis
 Sigga
 Sigeberht the Little
 Sifan Hassan
@@ -4274,7 +4283,7 @@ Sibylle of Saxony
 Sibylle of Cleves
 Sibylle Lewitscharoff
 Sibylle Berg
-Queen of Jerusalem
+Sibylla
 Sibylla of Burgundy
 Sibylla of Anjou
 Sibylla of Anhalt
@@ -4703,6 +4712,7 @@ Sérgio Soares
 Sergio Sebastiani
 Sergio Pitol
 Sergio Pardilla
+Sergio Díaz
 Sergio Córdova
 Sergio Berti
 Sergiño Dest
@@ -4712,6 +4722,7 @@ Sergey Bakulin
 Sergei Zenjov
 Sergei Tumansky
 Sergei Polunin
+Sergei Ovchinnikov
 Sergei Nilus
 Sergei Mošnikov
 Sergei Lemeshev
@@ -4832,7 +4843,7 @@ Sayyeshaa
 Sayuri Yoshinaga
 Sayuri Yamaguchi
 Sayumi Michishige
-Baroness Warsi
+Sayeeda Warsi
 Sayako Kuroda
 Sayaka Osakabe
 Sayaka Ohara
@@ -4924,7 +4935,7 @@ Sareh Bayat
 Saray Mulk Khanum
 Sarasadat Khademalsharieh
 Sarala Devi Chaudhurani
-Duchess of York
+Sarah
 Sarah-Léonie Cysique
 Sarah Zadrazil
 Sarah Yorke Jackson
@@ -5033,7 +5044,7 @@ Sarah De Nutte
 Sarah Dawn Finer
 Sarah Connor
 Sarah Clarke
-Duchess of Marlborough
+Sarah Churchill
 Sarah Childress Polk
 Sarah Chelangat
 Sarah Chang
@@ -5099,6 +5110,7 @@ Sara Lidman
 Sara Lappalainen
 Sara Krnjić
 Sara Kolak
+Sara Khan
 Sara Junevik
 Sara Josephine Baker
 Sara Jo
@@ -5271,8 +5283,8 @@ Sanda Aldass
 Sancia of Majorca
 Sanchia of Provence
 Sancha of León
-Queen of Navarre
-Queen of Aragon
+Sancha of Castile
+Sancha of Castile
 Sancha of Aragon
 Sanaya Irani
 Sanath Jayasuriya
@@ -5299,6 +5311,7 @@ Sami Gayle
 Sami Frey
 Sameera Reddy
 Sameera Moussa
+Samba Sow
 Samara Weaving
 Samara Vieira
 Samara Joy
@@ -5347,6 +5360,7 @@ Sam Willoughby
 Sam Taylor-Johnson
 Sam Mewis
 Sam Kerr
+Sam Gallagher
 Sam Coffey
 Sam Brown
 Sam Bewley
@@ -6192,17 +6206,17 @@ Ricky Jay
 Rickie Lee Jones
 Ricki Lake
 Rick Parfitt
-Countess of Hainaut
+Richilde
 Richilde of Provence
 Richie Ramone
-Queen of Sweden
-Queen of Hungary
-Queen of Castile
+Richeza of Poland
+Richeza of Poland
+Richeza of Poland
 Richeza of Lotharingia
 Richeza of Denmark
 Richenza of Northeim
 Richelle Mead
-Queen of Sweden
+Richardis of Schwerin
 Richardis
 Richard Thaler
 Richard Tandy
@@ -6908,13 +6922,13 @@ Princess Sophia of Sweden
 Princess Sophia of Gloucester
 Princess Sophia Hedwig of Denmark
 Princess Sophia Dorothea of Prussia
-Duchess of Värmland
+Princess Sofia
 Princess Sibylle of Saxe-Lauenburg
 Princess Sibylla of Saxe-Coburg and Gotha
 Princess Salma bint Abdullah
 Princess Regina of Saxe-Meiningen
 Princess Rajwa Al Hussein
-Mrs. Lorentzen
+Princess Ragnhild
 Princess Pingyang
 Princess Pilar of Bavaria
 Princess Philippine Charlotte of Prussia
@@ -6932,11 +6946,11 @@ Princess Muna al-Hussein
 Princess Milica of Serbia
 Princess Milica of Montenegro
 Princess Michael of Kent
-Countess of Southesk
+Princess Maud
 Princess Mathilde of Saxony
 Princess Mathilde of Bavaria
 Princess Mathilde Caroline of Bavaria
-Duchess of Gloucester and Edinburgh
+Princess Mary
 Princess Mary of Great Britain
 Princess Mary Adelaide of Cambridge
 Princess Märtha of Sweden
@@ -7018,11 +7032,11 @@ Princess Margriet of the Netherlands
 Princess Margherita of Bourbon-Parma
 Princess Margarita of Greece and Denmark
 Princess Margarita of Baden
-Mrs. Ambler
+Princess Margaretha
 Princess Margaretha of Sweden
 Princess Margaretha of Saxony
 Princess Margaretha of Liechtenstein
-Countess of Snowdon
+Princess Margaret
 Princess Margaret Yolande of Savoy
 Princess Margaret of Prussia
 Princess Margaret of Denmark
@@ -7030,13 +7044,13 @@ Princess Margaret of Connaught
 Princess Mako of Akishino
 Princess Magdalena Augusta of Anhalt-Zerbst
 Princess Mafalda of Savoy
-Duchess of Hälsingland and Gästrikland
+Princess Madeleine
 Princess Mabel of Orange-Nassau
 Princess Luise Dorothea of Saxe-Meiningen
 Princess Luise Dorothea of Prussia
 Princess Luisa Carlotta of Naples and Sicily
 Princess Ludovika of Bavaria
-Duchess of Argyll
+Princess Louise
 Princess Louise Sophie of Schleswig-Holstein-Sonderburg-Augustenburg
 Princess Louise of Saxe-Hildburghausen
 Princess Louise of Saxe-Gotha-Altenburg
@@ -7060,10 +7074,10 @@ Princess Louise Caroline of Hesse-Kassel
 Princess Louise Auguste of Denmark
 Princess Louise Amelie of Baden
 Princess Louisa of Great Britain
-Duchess of Halland
+Princess Lilian
 Princess Leopoldine of Baden
 Princess Leopoldina of Brazil
-Duchess of Gotland
+Princess Leonore
 Princess Laurentien of the Netherlands
 Princess Lalla Salma of Morocco
 Princess Lalla Khadija of Morocco
@@ -7085,7 +7099,7 @@ Princess Isabella of Denmark
 Princess Isabella of Croÿ
 Princess Isabella of Bavaria
 Princess Irina Alexandrovna of Russia
-Duchess of Aosta
+Princess Irene
 Princess Irene of the Netherlands
 Princess Irene of Hesse and by Rhine
 Princess Irene of Greece and Denmark
@@ -7113,7 +7127,7 @@ Princess Helena of Nassau
 Princess Helena Adelaide of Schleswig-Holstein-Sonderburg-Glücksburg
 Princess Helen of Serbia
 Princess Gisela Agnes of Anhalt-Köthen
-Countess of Carladès
+Princess Gabriella
 Princess Friederike of Schleswig-Holstein-Sonderburg-Glücksburg
 Princess Friederike of Hesse-Darmstadt
 Princess Friederike of Brandenburg-Schwedt
@@ -7136,7 +7150,7 @@ Princess Eugénie of Sweden
 Princess Eugénie of Greece and Denmark
 Princess Eugenia Maximilianovna of Leuchtenberg
 Princess Eudoxia of Bulgaria
-Duchess of Östergötland
+Princess Estelle
 Princess Ernestine of Saxe-Weimar
 Princess Emma of Anhalt-Bernburg-Schaumburg-Hoym
 Princess Elizabeth of Yugoslavia
@@ -7144,8 +7158,8 @@ Princess Elizabeth of the United Kingdom
 Princess Elizabeth of Sweden
 Princess Elizabeth of Greece and Denmark
 Princess Elizabeth of Great Britain
-Duchess of Hohenberg
-Duchess of Brabant
+Princess Elisabeth
+Princess Elisabeth
 Princess Elisabeth Sophie of Saxe-Altenburg
 Princess Elisabeth of Thurn and Taxis
 Princess Elisabeth of Saxony
@@ -7169,7 +7183,7 @@ Princess Dorothea Wilhelmine of Saxe-Zeitz
 Princess Dorothea of Schleswig-Holstein-Sonderburg-Beck
 Princess Dorothea of Saxe-Coburg and Gotha
 Princess Dorothea Charlotte of Brandenburg-Ansbach
-Baroness Silfverschiöld
+Princess Désirée
 Princess Deokhye
 Princess Delphine of Belgium
 Princess Dagmar of Denmark
@@ -7180,9 +7194,9 @@ Princess Claire of Luxembourg
 Princess Claire of Belgium
 Princess Christine of Hesse-Rotenburg
 Princess Christine Louise of Oettingen-Oettingen
-Mrs. Magnuson
+Princess Christina
 Princess Christina of the Netherlands
-Duchess of Valentinois
+Princess Charlotte
 Princess Charlotte Sophie of Saxe-Coburg-Saalfeld
 Princess Charlotte of Württemberg
 Princess Charlotte of Wales
@@ -7229,15 +7243,15 @@ Princess Augusta of Great Britain
 Princess Augusta of Cambridge
 Princess Augusta of Bavaria
 Princess Athena of Denmark
-Mrs. Ferner
-Archduchess of Austria-Este
+Princess Astrid
+Princess Astrid of Belgium
 Princess Ariane of the Netherlands
 Princess Antonia of Luxembourg
-Baroness of Massy
+Princess Antoinette
 Princess Antoinette of Saxe-Coburg-Saalfeld
 Princess Antoinette of Saxe-Altenburg
 Princess Antoinette of Brunswick-Wolfenbüttel
-Duchess of Calabria
+Princess Anne
 Princess Anne of Orléans
 Princess Anne Charlotte of Lorraine
 Princess Anna Sophie of Schwarzburg-Rudolstadt
@@ -7257,8 +7271,8 @@ Princess Amalia of Sweden
 Princess Amalia of Saxe-Weimar-Eisenach
 Princess Amalia of Nassau-Dietz
 Princess Alix of Luxembourg
-Duchess of Gloucester
-Countess of Athlone
+Princess Alice
+Princess Alice
 Princess Alice of the United Kingdom
 Princess Alice of Battenberg
 Princess Alia bint Hussein
@@ -7267,8 +7281,8 @@ Princess Alexia of Greece and Denmark
 Princess Alexandrine of Prussia
 Princess Alexandrine of Prussia
 Princess Alexandrine of Baden
-The Honourable Lady Ogilvy
-2nd Duchess of Fife
+Princess Alexandra
+Princess Alexandra
 Princess Alexandra Victoria of Schleswig-Holstein-Sonderburg-Glücksburg
 Princess Alexandra of Saxe-Coburg and Gotha
 Princess Alexandra of Saxe-Altenburg
@@ -7289,10 +7303,10 @@ Princess Adelgunde of Bavaria
 Princess Adelaide of Schaumburg-Lippe
 Princess Adelaide of Saxe-Meiningen
 Prince William of Schaumburg-Lippe
-Duke of Gloucester and Edinburgh
+Prince William Frederick
 Prince Tomohito of Mikasa
 Prince Moriyoshi
-Duke in Bavaria
+Prince Max
 Prince Karl Anton August of Schleswig-Holstein-Sonderburg-Beck
 Prince Josias of Saxe-Coburg-Saalfeld
 Prince Johann Georg of Hohenzollern
@@ -7332,6 +7346,7 @@ Poppy Montgomery
 Poppy Drayton
 Poppy
 Poppaea Sabina
+Popó
 Pope Peter II of Alexandria
 Pope Joan
 Poorna Jagannathan
@@ -7498,14 +7513,14 @@ Philomena
 Philochorus
 Phillis Wheatley
 Phillipa Soo
-Lord of Saint-Aldegonde
+Philips of Marnix
 Philippine Welser
 Philippine Leroy-Beaulieu
 Philippine Élisabeth d'Orléans
 Philippe Verdelot
 Philippe Omnès
-Countess of Toulouse
-5th Countess of Ulster
+Philippa
+Philippa
 Philippa York
 Philippa Pearce
 Philippa of Lancaster
@@ -7533,6 +7548,8 @@ Phan Thi Kim Phuc
 Pfeiffer Georgi
 Peyton Stearns
 Peyton Royce
+Peyton List
+Peyton List
 Peyton Kennedy
 Peyton Elizabeth Lee
 Petula Clark
@@ -7576,8 +7593,8 @@ Peter Møller
 Peter Mogila
 Peter Martyr Vermigli
 Peter Lord
-Grand Duke of Oldenburg
-Duke of Bourbon
+Peter II
+Peter II
 Peter Erskine
 Peter Doig
 Peter Brabrook
@@ -7881,7 +7898,7 @@ Patrícia Mamona
 Patricia Krenwinkel
 Patricia Kraus
 Patricia Kopatchinskaja
-2nd Countess Mountbatten of Burma
+Patricia Knatchbull
 Patricia Kennedy Lawford
 Patricia Kalember
 Patricia Kaas
@@ -7975,6 +7992,7 @@ Park Jung-ah
 Park Jin-joo
 Park Ji-yoon
 Park Ji-yeon
+Park Ji-min
 Park Ji-hu
 Park Jeong-hwa
 Park Han-byul
@@ -8133,8 +8151,8 @@ Otto Tief
 Otto Stapf
 Otto Siffling
 Otto Marseus van Schrieck
-Duke of Swabia and Bavaria
-Duke of Brunswick-Lüneburg
+Otto I
+Otto I
 Otto Fredrikson
 Ottessa Moshfegh
 Ottavia Piccolo
@@ -8217,7 +8235,7 @@ Omar Al Somah
 Olympias II of Epirus
 Olympias
 Olympia Snowe
-Countess of Soissons
+Olympia Mancini
 Olympia Fulvia Morata
 Olympia Dukakis
 Olympia Aldersey
@@ -8621,6 +8639,7 @@ Noel Harrison
 Noel Fisher
 Noel Barrionuevo
 Nodira
+Nobuyuki Oishi
 Nobuko Yoshiya
 Nobuko Kondo
 Nobuko Jashima
@@ -8830,7 +8849,7 @@ Nicoleta-Ancuța Bodnar
 Nicoleta Grasu
 Nicoleta Daniela Șofronie
 Nicoleta Alexandru
-Duchess of Lorraine
+Nicole
 Nicole-Reine Lepaute
 Nicole Yeargin
 Nicole van der Kaay
@@ -8935,7 +8954,7 @@ Nick Zano
 Nick Wechsler
 Nick Blackman
 Nicholle Tom
-Baron Stern of Brentford
+Nicholas Stern
 Nicholas of Japan
 Nicholas Gonzalez
 Nichola Burley
@@ -9007,6 +9026,7 @@ NeNe Leakes
 Nena
 Nemanja Radonjić
 Nemanja Pejčinović
+Nemanja Nikolić
 Nemanja Milunović
 Nely Carla Alberto
 Nelson Parraguez
@@ -9488,7 +9508,7 @@ Nancy Cartwright
 Nancy Carroll
 Nancy Carell
 Nancy Brilli
-Viscountess Astor
+Nancy Astor
 Nancy Allen
 Nancy Ajram
 Nancy
@@ -9655,7 +9675,7 @@ Nadezhda Alliluyeva
 Nadežda Petrović
 Nadezda Makroguzova
 Nadeshda Brennicke
-Marchioness of Milford Haven
+Nadejda Mountbatten
 Nadeen Ashraf
 Nada Laaraj
 Nađa Higl
@@ -10450,7 +10470,7 @@ Michaela Dorfmeister
 Michaela Conlin
 Michaela Coel
 Michaela Blyde
-Prince of Saxe-Weimar-Eisenach
+Michael
 Michael Widenius
 Michael Turtur
 Michael Steele
@@ -10468,6 +10488,7 @@ Michael Gazzaniga
 Michael E. Mann
 Michaël Dudok de Wit
 Michael Clarke
+Michael Brown
 Michael Boxall
 Michael Bisping
 Michael Ballhaus
@@ -10508,7 +10529,7 @@ Mia Blazhevska Eminova
 Mia Audina
 Mhairi Black
 Meya Bizer
-Crown Princess of Norway
+Mette-Marit
 Mette Schjoldager
 Mette Graversgaard
 Mette Frederiksen
@@ -10597,7 +10618,7 @@ Menen Asfaw
 Menachem Bello
 Mena Suvari
 Memphis Minnie
-Duchess of Kendal
+Melusine von der Schulenburg
 Meltem Hocaoğlu
 Meltem Cumbul
 Melora Walters
@@ -10651,7 +10672,7 @@ Melissa Benoist
 Melissa Belote
 Melissa Barrera
 Melissa Auf der Maur
-Queen of Jerusalem
+Melisende
 Melisa Sözen
 Melisa Gil
 Melisa Aslı Pamuk
@@ -10720,8 +10741,8 @@ Meketaten
 Meja
 Meisa Kuroki
 Meira Kumar
-Duke of Carinthia
-Count of Gorizia-Tyrol
+Meinhard
+Meinhard III
 Meilen Tu
 Meiko Kaji
 Meike Evers
@@ -10760,7 +10781,7 @@ Meghna Naidu
 Meghna Gulzar
 Meghann Shaughnessy
 Meghann Fahy
-Duchess of Sussex
+Meghan
 Meghan Trainor
 Meghan Ory
 Meghan O'Leary
@@ -10967,7 +10988,7 @@ Maude Charron
 Maude Apatow
 Maude Adams
 Maude Abbott
-Countess of Huntingdon
+Maud
 Maud Watson
 Maud Wagner
 Maud Olofsson
@@ -11006,27 +11027,28 @@ Matilde Camus
 Matilda Ziegler
 Matilda of Tuscany
 Matilda of Scotland
-Queen of Portugal
+Matilda of Savoy
 Matilda of Ringelheim
 Matilda of Holstein
 Matilda of Habsburg
-Countess Palatine of Lotharingia
+Matilda of Germany
 Matilda of Frisia
 Matilda of France
 Matilda of Flanders
-Duchess of Saxony
+Matilda of England
 Matilda of Carinthia
 Matilda of Boulogne
 Matilda Lutz
 Matilda Kearns
 Matilda Joslyn Gage
-Countess of Nevers
-Countess of Boulogne
+Matilda II
+Matilda II
 Matilda Howell
 Matilda Horn
 Matilda Ernkrans
 Matilda De Angelis
 Matilda Castren
+Matías González
 Mathilde Seigner
 Mathilde Rivière
 Mathilde Marchesi
@@ -11125,12 +11147,12 @@ Maryam Hassani
 Maryam d'Abo
 Maryam al-Khawaja
 Marya Roxx
-Queen of Scots
-Queen of Hungary
-Princess Royal and Princess of Orange
-Princess Royal and Countess of Harewood
-mother of Jesus
-Crown Princess of Denmark
+Mary
+Mary
+Mary
+Mary
+Mary
+Mary
 Mary-Sophie Harvey
 Mary-Louise Parker
 Mary-Kate Olsen
@@ -11149,12 +11171,12 @@ Mary Wells
 Mary Wayte
 Mary Watson Whitney
 Mary Washburn
-Baroness Warnock
+Mary Warnock
 Mary Ward
 Mary Ward
 Mary Ure
 Mary Tyler Moore
-Queen of France
+Mary Tudor
 Mary Travers
 Mary Toft
 Mary Todd Lincoln
@@ -11197,14 +11219,14 @@ Mary of Teck
 Mary of Modena
 Mary of Jesus of Ágreda
 Mary of Jesus de León y Delgado
-Queen of Naples
+Mary of Hungary
 Mary of Hungary
 Mary of Guise
 Mary of Guelders
 Mary of Egypt
 Mary of Clopas
-Duchess of Savoy
-Duchess of Cleves
+Mary of Burgundy
+Mary of Burgundy
 Mary of Burgundy
 Mary of Bethany
 Mary of Avesnes
@@ -11331,6 +11353,8 @@ Mary Ann Nichols
 Mary Ann Mobley
 Mary Ann Cotton
 Mary Ann Bevan
+Mary Anderson
+Mary Anderson
 Mary Anderson
 Mary Alice
 Mary Alden
@@ -11496,6 +11520,7 @@ Marsha Thomason
 Marsha P. Johnson
 Marsha Mason
 Marsha Ivins
+Marsha Hunt
 Marsha Blackburn
 Marsha Ambrosius
 Marsai Martin
@@ -11839,8 +11864,8 @@ Mariel Hemingway
 Marieke Vervoort
 Marieke Lucas Rijneveld
 Marieke Keijser
-Princess of Liechtenstein
-Duchess of Auvergne
+Marie
+Marie
 Marie-Zélia Lafont
 Marie-Thérèse Walter
 Marie-Theres Nadig
@@ -11873,15 +11898,15 @@ Marie-Claire Restoux
 Marie-Claire Blais
 Marie-Claire Alain
 Marie-Christine Barrault
-Crown Princess of Greece
-Duchess of Berry
+Marie-Chantal
+Marie-Caroline of Bourbon-Two Sicilies
 Marie-Antoinette Katoto
 Marie-Anne Paulze Lavoisier
 Marie-Anne Libert
 Marie-Anne de Cupis de Camargo
 Marie-Anne Chazel
 Marie-Alphonsine Danil Ghattas
-Grand Duchess of Luxembourg
+Marie-Adélaïde
 Marie Yovanovitch
 Marie Windsor
 Marie Wilson
@@ -11896,7 +11921,7 @@ Marie Trintignant
 Marie Thusgaard Olsen
 Marie Thérèse Rodet Geoffrin
 Marie Thérèse of France
-Princesse de Lamballe
+Marie Thérèse Louise of Savoy
 Marie Thérèse de Bourbon
 Marie Tharp
 Marie Taglioni
@@ -11920,20 +11945,20 @@ Marie of the Incarnation
 Marie of the Incarnation
 Marie of Saxe-Altenburg
 Marie of Romania
-Margravine of Brandenburg-Bayreuth
 Marie of Prussia
-Queen of France
-Countess of Vendôme
-Queen of Aragon
+Marie of Prussia
+Marie of Luxembourg
+Marie of Luxembourg
+Marie of Lusignan
 Marie of Lorraine
 Marie of Hesse-Kassel
-Countess of Champagne
-Princess of Condé
-Duchess of Orléans
+Marie of France
+Marie of Cleves
+Marie of Cleves
 Marie of Champagne
 Marie of Brienne
 Marie of Brandenburg-Kulmbach
-Queen of France
+Marie of Brabant
 Marie of Baden-Sponheim
 Marie of Anjou
 Marie Noël
@@ -11946,7 +11971,7 @@ Marie Martinod
 Marie Marchand-Arvier
 Marie Mancini
 Marie Luise Kaschnitz
-Duchess of Parma
+Marie Louise
 Marie Louise Gonzaga
 Marie Louise Élisabeth d'Orléans
 Marie Louise d’Orléans
@@ -11967,7 +11992,7 @@ Marie José of Belgium
 Marie Jeanne Baptiste of Savoy-Nemours
 Marie Jahoda
 Marie Jacquet
-Countess of Boulogne
+Marie I
 Marie Horáčková
 Marie Henriette of Austria
 Marie Harel
@@ -11987,12 +12012,12 @@ Marié Digby
 Marie Delattre
 Marie de' Medici
 Marie de Rohan
-marquise de Sévigné
+Marie de Rabutin-Chantal
 Marie de Nemours
 Marie de Gournay
 Marie de France
-Duchess of Montpensier
-Countess of Soissons
+Marie de Bourbon
+Marie de Bourbon
 Marie Darrieussecq
 Marie d'Agoult
 Marie Curie
@@ -12016,9 +12041,9 @@ Marie Antoinette Murat
 Marie Antoinette
 Marie Anne Mancini
 Marie Anne Lenormand
-marquise du Deffand
+Marie Anne de Vichy-Chamrond
 Marie Anne de Mailly
-princesse des Ursins
+Marie Anne de La Trémoille
 Marie Anne de Bourbon
 Marie Angélique de Scorailles
 Marie Adélaïde of Savoy
@@ -12113,10 +12138,10 @@ Mariah Duran
 Mariah Carey
 Mariafe Artacho del Solar
 Mariacarla Boscono
-wife of Leo III
-wife of Constantine V
-Queen of Sicily
-Duchess of Gloucester and Edinburgh
+Maria
+Maria
+Maria
+Maria
 Maria-Magdalena Rusu
 Maria Zankovetska
 María Zambrano
@@ -12152,14 +12177,14 @@ Maria Theresia von Paradis
 Maria Theresa of Spain
 Maria Theresa of Savoy
 Maria Theresa of Naples and Sicily
-Queen of Sardinia
+Maria Theresa of Austria-Este
 Maria Theresa of Austria-Este
 Maria Theresa of Austria
 Maria Theresa of Austria
 Maria Theresa of Austria
 Maria Theresa
-Princess of Beira
-Grand Duchess of Luxembourg
+Maria Teresa
+Maria Teresa
 María Teresa Torró Flor
 María Teresa Ruiz
 Maria Teresa Rafaela of Spain
@@ -12170,7 +12195,7 @@ María Teresa Ferrari
 María Teresa Fernández de la Vega
 Maria Teresa Felicitas d'Este
 Maria Teresa de Filippis
-Duchess of Massa
+Maria Teresa Cybo-Malaspina
 Maria Teresa Agnesi Pinottini
 Maria Temryukovna
 Maria Temnikova
@@ -12242,20 +12267,20 @@ María Ólafsdóttir
 Maria Ohisalo
 Maria of Yugoslavia
 Maria of Trebizond
-Queen of Bosnia
-Queen of Castile
-Duchess of Viseu
+Maria of Serbia
+Maria of Portugal
+Maria of Portugal
 Maria of Navarre
 Maria of Montpellier
 Maria of Montferrat
 Maria of Courtenay
-Queen of Aragon
-Holy Roman Empress
-Duchess of Bavaria
-Holy Roman Empress
-Duchess of Jülich-Cleves-Berg
-Queen of Portugal
-Queen of Castile
+Maria of Castile
+Maria of Brabant
+Maria of Brabant
+Maria of Austria
+Maria of Austria
+Maria of Aragon
+Maria of Aragon
 Maria of Antioch
 Maria of Amnia
 Maria of Alania
@@ -12277,14 +12302,14 @@ Maria Mazina
 Maria Martynova
 María Martínez Sierra
 Maria Margaretha Kirch
-Princess of Portugal
+Maria Manuela
 Maria Mandl
 Maria Malibran
 María Mailliard
 Maria Magdalena Dumitrache
 Maria Machava
 Maria Lvova-Belova
-Duchess of Lucca
+Maria Luisa
 Maria Luisa of Spain
 Maria Luisa of Savoy
 Maria Luisa of Parma
@@ -12295,7 +12320,7 @@ María Luisa Bemberg
 Maria Ludovika of Austria-Este
 María Lucelly Murillo
 María López
-Duchess of Aosta
+Maria Letizia Bonaparte
 Maria Leopoldine of Austria
 Maria Leopoldina of Austria
 María León
@@ -12307,8 +12332,8 @@ Maria Kryuchkova
 Maria Kristin Yulianti
 Maria Konopnicka
 Maria Kondratieva
-Queen of Jerusalem
-Queen of Hungary
+Maria Komnene
+Maria Komnene
 Maria Komnene
 María Kodama
 Maria Klenova
@@ -12320,7 +12345,7 @@ Maria Kameneva
 Maria Kalesnikava
 Maria Kaczyńska
 María Julia Mantilla
-Dauphine of France
+Maria Josepha of Saxony
 Maria Josepha of Bavaria
 Maria Josepha of Austria
 Maria Josepha Amalia of Saxony
@@ -12357,7 +12382,7 @@ Maria Grazia Cucinotta
 Maria Grazia Alemanno
 Maria Gorokhovskaya
 Maria Goretti
-Duchess of Montferrat
+Maria Gonzaga
 Maria Golubnichaya
 Maria Goeppert Mayer
 Maria Giuseppa Robucci
@@ -12405,7 +12430,7 @@ María de Molina
 Maria de Medeiros
 Maria de Luna
 Maria de Lourdes Pintasilgo
-Princess of Asturias
+María de las Mercedes
 Maria de Dominici
 Maria das Neves
 Maria Damanaki
@@ -12421,15 +12446,15 @@ María Conchita Alonso
 Maria Clementina Sobieska
 Maria Clara Eimmart
 Maria Cioncan
-Princess of Transylvania
-Duchess of Teschen
+Maria Christina
+Maria Christina
 Maria Christina of the Two Sicilies
 Maria Christina of Austria
 Maria Centracchio
 Maria Celia Laborde
 Maria Celeste
 Maria Cebotari
-13th Duchess of Alba
+María Cayetana de Silva
 Maria Caterina Farnese
 Maria Caterina Brignole
 María Casares
@@ -12461,7 +12486,7 @@ Maria Bello
 María Belén Toimil
 Maria Beatrix of Austria-Este
 Maria Beatrice of Savoy
-Duchess of Massa
+Maria Beatrice d'Este
 María Baxa
 Maria Bashir
 María Barranco
@@ -12476,7 +12501,7 @@ Maria Antonia Ferdinanda of Spain
 Maria Anna Victoria of Bavaria
 Maria Anna Sophia of Saxony
 Maria Anna of Spain
-Duchess of Chablais
+Maria Anna of Savoy
 Maria Anna of Savoy
 Maria Anna of Neuburg
 Maria Anna of Bavaria
@@ -12581,8 +12606,8 @@ Margherita of Savoy
 Margherita Maria Farnese
 Margherita Hack
 Margherita Granbassi
-Duchess of Lorraine
-Duchess of Ferrara
+Margherita Gonzaga
+Margherita Gonzaga
 Margherita de' Medici
 Margherita Buy
 Margherita Aldobrandini
@@ -12620,11 +12645,11 @@ Margarete Buber-Neumann
 Margarete Adler
 Margareta of Romania
 Margareta Kozuch
-Marchioness of Namur
-Maid of Norway
-Countess of Tyrol
-Countess of Blois
-Countess of Anjou
+Margaret
+Margaret
+Margaret
+Margaret
+Margaret
 Margaret Wycherly
 Margaret Woodrow Wilson
 Margaret Woodbridge
@@ -12638,7 +12663,7 @@ Margaret the Virgin
 Margaret Thatcher
 Margaret Taylor
 Margaret Sullavan
-Dauphine of France
+Margaret Stewart
 Margaret Spellings
 Margaret Simpson
 Margaret Scriven
@@ -12648,18 +12673,18 @@ Margaret Rutherford
 Margaret Rhea Seddon
 Margaret Qualley
 Margaret Price
-Countess of Salisbury
+Margaret Pole
 Margaret Paleologa
 Margaret Osborne duPont
 Margaret Oliphant
 Margaret of York
 Margaret of Valois
 Margaret of Thuringia
-Queen of Norway
+Margaret of Sweden
 Margaret of Sicily
-Queen of Norway
-Vicereine of Portugal
-Duchess of Anjou
+Margaret of Scotland
+Margaret of Savoy
+Margaret of Savoy
 Margaret of Provence
 Margaret of Prades
 Margaret of Parma
@@ -12668,29 +12693,29 @@ Margaret of Navarre
 Margaret of L'Aigle
 Margaret of Hungary
 Margaret of Hungary
-Queen of England and Hungary
-Queen of England
-Duchess of Brabant
-Duchess of Berry
+Margaret of France
+Margaret of France
+Margaret of France
+Margaret of France
 Margaret of Foix
 Margaret of England
 Margaret of Durazzo
-Queen of Scotland
+Margaret of Denmark
 Margaret of Cortona
-Queen of Sicily
-Queen of France
-Duchess of Bavaria
-Countess of Flanders
+Margaret of Burgundy
+Margaret of Burgundy
+Margaret of Burgundy
 Margaret of Brabant
-Queen of Navarre
+Margaret of Brabant
 Margaret of Bourbon
-Queen of Hungary
-Electress Palatine
+Margaret of Bourbon
+Margaret of Bohemia
 Margaret of Bavaria
-Queen of Spain
-Queen of Bohemia
-Electress of Saxony
-Duchess of Savoy
+Margaret of Bavaria
+Margaret of Austria
+Margaret of Austria
+Margaret of Austria
+Margaret of Austria
 Margaret of Anjou
 Margaret Oakley Dayhoff
 Margaret O'Brien
@@ -12713,11 +12738,11 @@ Margaret Leijonhufvud
 Margaret Leighton
 Margaret Kipkemboi
 Margaret Keane
-Countess of Flanders
-Countess of Hainaut
-Countess of Flanders
-Countess of Flanders
-Countess of Burgundy
+Margaret III
+Margaret II
+Margaret II
+Margaret I
+Margaret I
 Margaret I of Denmark
 Margaret Hoelzer
 Margaret Heckler
@@ -12730,7 +12755,7 @@ Margaret Fuller
 Margaret Fredkulla
 Margaret E. Knight
 Margaret Dumont
-Queen of Scotland
+Margaret Drummond
 Margaret Drabble
 Margaret Douglas
 Margaret Cremen
@@ -12739,7 +12764,7 @@ Margaret Colin
 Margaret Cho
 Margaret Chase Smith
 Margaret Chan
-Duchess of Newcastle-upon-Tyne
+Margaret Cavendish
 Margaret Burbidge
 Margaret Brown
 Margaret Bourke-White
@@ -13066,7 +13091,7 @@ Mahidevran
 Mahfiruz Hatun
 Mahek Chahal
 Mahder Assefa
-Countess of Artois
+Mahaut
 Mahasweta Devi
 Mahapajapati Gotami
 Maham Anga
@@ -13077,6 +13102,7 @@ Maha Gouda
 Mah Laqa Bai
 Magüi Serna
 Maguba Syrtlanova
+Magomed Ibragimov
 Magnus Uggla
 Magnus Gustafsson
 Magnus Carlsson
@@ -13247,7 +13273,7 @@ Madeleine Lebeau
 Madeleine Larcheron
 Madeleine L'Engle
 Madeleine Kelly
-marquise de Sablé
+Madeleine de Souvré
 Madeleine de Scudéry
 Madeleine de La Tour d'Auvergne
 Madeleine Carroll
@@ -13526,7 +13552,8 @@ Luisa de Guzmán
 Luisa Cuesta
 Luisa Baptista
 Luis Ubiña
-Count of Chinchón
+Luis Pérez
+Luis of Spain
 Luis de Guindos
 Luis Carlos Perea
 Luis Abram
@@ -13556,7 +13583,7 @@ Ludia Montero
 Luděk Pachman
 Lucyna Winnicka
 Lucyna Langer
-Lady Duff-Gordon
+Lucy
 Lucy Webb Hayes
 Lucy Walter
 Lucy Stone
@@ -13575,6 +13602,7 @@ Lucy Lawless
 Lucy Hope
 Lucy Hawking
 Lucy Hale
+Lucy Griffiths
 Lucy Gray
 Lucy Gordon
 Lucy Glover
@@ -13587,7 +13615,7 @@ Lucy Ayoub
 Lucy Aharish
 Lucrezia Tornabuoni
 Lucrezia Marinella
-Duchess of Ferrara
+Lucrezia de' Medici
 Lucrezia de' Medici
 Lucrezia d'Este
 Lucrezia Colombotto Rosso
@@ -13646,7 +13674,7 @@ Luciana Fuster
 Luciana Diniz
 Luciana Aymar
 Luciana Alvarado
-Countess of Tripoli
+Lucia
 Lucía Yépez
 Lucía Topolansky
 Lucia Stafford
@@ -13710,7 +13738,7 @@ Lourdes Flores
 Lourdes Domínguez Lino
 Lourdes Benedicto
 Loujain al-Hathloul
-Princess Royal
+Louise
 Louise-Victorine Ackermann
 Louise Weiss
 Louise Shanahan
@@ -13737,7 +13765,7 @@ Louise Mountbatten
 Louise Moillon
 Louise Michel
 Louise Marie Thérèse of Artois
-Duchess of Orléans
+Louise Marie Adélaïde de Bourbon
 Louise Lorraine
 Louise Lombard
 Louise Lehzen
@@ -13745,12 +13773,12 @@ Louise Lasser
 Louise Lake-Tack
 Louise Labé
 Louise Julie de Mailly-Nesle
-Princess of Monaco
+Louise Hippolyte
 Louise Henriette de Bourbon
 Louise Hay
 Louise Hansson
 Louise Glück
-Duchess of Bourbon
+Louise Françoise de Bourbon
 Louise Fletcher
 Louise Fazenda
 Louise Farrenc
@@ -13763,7 +13791,7 @@ Louise Dresser
 Louise Diane d'Orléans
 Louise de Marillac
 Louise de La Vallière
-Duchess of Portsmouth
+Louise de Kérouaille
 Louise de Coligny
 Louise d'Orléans
 Louise Currey
@@ -13798,16 +13826,16 @@ Louisa Cadamuro
 Louisa Bolus
 Louisa Altenhuber
 Louisa Adams
-Duke of Bavaria
+Louis VIII
 Louis of Nassau
 Louis Massignon
 Louis Lansana Beavogui
 Louis Lachenal
-Elector Palatine
-Duke of Orléans
+Louis III
+Louis I
 Louis I of Naples
-Prince of Conti
-Prince of Lamballe
+Louis Armand II
+Louis Alexandre
 Loui Eriksson
 Louella Parsons
 Loubna Benhadja
@@ -14176,6 +14204,7 @@ Lisa Angell
 Lisa Andreas
 Lisa Alexander
 Lisa Ajax
+LiSA
 Lisa
 Lis Hartel
 Lionel Shriver
@@ -14409,7 +14438,7 @@ Liliana Gafencu
 Liliana Fernández
 Liliana Cavani
 Liliana Cá
-Princess of Réthy
+Lilian
 Lilian Marijnissen
 Lilian Kasait Rengeruk
 Lilian Jackson Braun
@@ -14532,6 +14561,7 @@ Li Xue
 Li Xuanxu
 Li Xiaoxia
 Li Wenwen
+Li Ting
 Li Shufang
 Li Shijia
 Li Shanshan
@@ -14638,7 +14668,7 @@ Lera Auerbach
 Lepa Radić
 Lepa Mladjenovic
 Lepa Brena
-Prince of Lippe
+Leopold IV
 Leontyne Price
 Leontion
 Leontien van Moorsel
@@ -14649,7 +14679,7 @@ Leonora Dori
 Leonora Christina Ulfeldt
 Leonora Carrington
 Leonora
-Princess of Asturias
+Leonor
 Leonor Watling
 Leonor Varela
 Leonor Teles
@@ -14680,6 +14710,7 @@ Léon Damas
 Léo Mineiro
 Leo Huberman
 Leo Genn
+Léo
 Lenny Kuhr
 Lennart Thy
 Lennart Nilsson
@@ -14735,6 +14766,7 @@ Lella Lombardi
 Leleti Khumalo
 Lele Pons
 Lela Rochon
+Leka
 Leizu
 Leisha Hailey
 Leisel Jones
@@ -15801,6 +15833,7 @@ Kim So-yeong
 Kim So-yeon
 Kim So-hyun
 Kim So-hye
+Kim So-hui
 Kim So-eun
 Kim Sharma
 Kim Seong-yeon
@@ -15824,9 +15857,11 @@ Kim Myeong-sun
 Kim Min-jung
 Kim Min-ju
 Kim Min-jae
+Kim Min-hee
 Kim Mickle
 Kim Mi-soo
 Kim Mi-rae
+Kim Mi-jung
 Kim Mestdagh
 Kim Matula
 Kim Little
@@ -15895,9 +15930,9 @@ Kim Basinger
 Kim Ah-joong
 Kim A-lang
 Kiley Neushul
-Princess Takamatsu
+Kikuko
 Kikuko Inoue
-Princess Akishino
+Kiko
 Kiko Seike
 Kiko Mizuhara
 Kikki Danielsson
@@ -16049,6 +16084,7 @@ Kenny Dehaes
 Kenneth Mars
 Kenneth Lonergan
 Kennedy McMann
+Kenji Takahashi
 Kenichi Yumoto
 Kenichi Serada
 Kendra Wilkinson
@@ -16411,6 +16447,7 @@ Kathryn C. Thornton
 Kathryn Bigelow
 Kathryn Bernardo
 Kathryn Beaumont
+Kathryn Adams
 Kathrine Switzer
 Kathrine Narducci
 Kathrin Zettel
@@ -16446,7 +16483,7 @@ Kathleen Grace Noble
 Kathleen Freeman
 Kathleen Ferrier
 Kathleen Dawson
-Marchioness of Hartington
+Kathleen Cavendish
 Kathleen Byron
 Kathleen Booth
 Kathleen Blanco
@@ -16455,7 +16492,7 @@ Kathleen Battle
 Kathleen Baker
 Kathleen Antonelli
 Katheryn Winnick
-Duchess of Buckingham
+Katherine Woodville
 Katherine Waterston
 Katherine Vibert
 Katherine Torrance
@@ -16498,7 +16535,7 @@ Käthe Leichter
 Käthe Kruse
 Käthe Krauss
 Käthe Kollwitz
-Duchess of Kent
+Katharine
 Katharine Ross
 Katharine Merry
 Katharine McPhee
@@ -17115,6 +17152,7 @@ Junia Claudilla
 Junia
 Jungkook
 Jung Yu-ra
+Jung Yu-mi
 Jung Yoo-jin
 Jung Sung-sook
 Jung So-min
@@ -17149,6 +17187,7 @@ June Anderson
 June Almeida
 June Allyson
 Junayna Ahmed
+Jun Suzuki
 Jun Ji-hyun
 Jun Hyo-seong
 Jun Endo
@@ -17287,7 +17326,7 @@ Julian of Norwich
 Julian Marley
 Julian Korb
 Julián Berrendero
-Princess of Battenberg
+Julia
 Julia Ward Howe
 Julia Voth
 Julia Volkova
@@ -17347,7 +17386,7 @@ Julia Kristeva
 Julia Krajewski
 Julia Kowalczyk
 Julia Klöckner
-Baroness Brown of Cambridge
+Julia King
 Julia Kern
 Julia Jones
 Julia Jentsch
@@ -17427,7 +17466,7 @@ Judy Blume
 Judy Baauw
 Judy Ann Santos
 Judy Amoore
-Duchess of Bavaria
+Judith
 Judith Wright
 Judith Wiesner
 Judith Weir
@@ -17444,7 +17483,7 @@ Judith of Habsburg
 Judith of Flanders
 Judith of Brittany
 Judith of Bohemia
-Duchess of Swabia
+Judith of Bavaria
 Judith of Bavaria
 Judith O'Dea
 Judith Miller
@@ -17558,7 +17597,7 @@ Josie Loren
 Josie Knight
 Josie Davis
 Josie Bissett
-Hereditary Prince of Waldeck and Pyrmont
+Josias
 Josiane Balasko
 Joshna Chinappa
 Josh Singer
@@ -17726,13 +17765,14 @@ John N. Bahcall
 John McGinn
 John Lauridsen
 John Kennedy
-Duke of Schleswig-Holstein-Sonderburg
-Duke of Bourbon
+John II
+John II
 John II Orsini
 John Houghton
 John Houbolt
 John Grant
 John Gardner
+John Egan
 John Edwards
 John Colet
 John Cannon
@@ -17850,9 +17890,9 @@ Joanne Froggatt
 Joanne Fa'avesi
 Joanne Dru
 Joanne Chory
-wife of Chuza
-Princess of Portugal
-Duchess of Brabant
+Joanna
+Joanna
+Joanna
 Joanna Sophia of Bavaria
 Joanna Shimkus
 Joanna Scanlan
@@ -17866,9 +17906,9 @@ Joanna of Pfirt
 Joanna of Castile
 Joanna of Bourbon
 Joanna of Bavaria
-Princess of Portugal
-Grand Duchess of Tuscany
-Queen of Naples
+Joanna of Austria
+Joanna of Austria
+Joanna of Aragon
 Joanna Newsom
 Joanna Moore
 Joanna Miles
@@ -17901,12 +17941,12 @@ Joana Vasconcelos
 Joana Ramos
 Joana Jiménez
 Joana Heidrich
-Lady of Wales
-Duchess of Brittany
-Countess of Toulouse
-Countess of Ponthieu
-Countess of Flanders
-Countess of Blois
+Joan
+Joan
+Joan
+Joan
+Joan
+Joan
 Joan Wallach Scott
 Joan Van Ark
 Joan the Lame
@@ -17920,16 +17960,16 @@ Joan Robinson
 Joan Rivers
 Joan Plowright
 Joan Osborne
-Queen of Navarre
-Countess of Hainaut
+Joan of Valois
+Joan of Valois
 Joan of the Tower
 Joan of Portugal
-Queen of England
+Joan of Navarre
 Joan of Kent
-Duchess of Brittany
-Duchess of Berry
-Queen of Sicily
-Queen of Scotland
+Joan of France
+Joan of France
+Joan of England
+Joan of England
 Joan of Arc
 Joan of Acre
 Joan Mondale
@@ -17941,11 +17981,11 @@ Joan Lindsay
 Joan Lin
 Joan Leslie
 Joan Jett
-Countess of Burgundy
-Countess of Burgundy
+Joan III
+Joan II
 Joan II of Navarre
-Countess of Burgundy
-Countess of Auvergne
+Joan I
+Joan I
 Joan I of Navarre
 Joan Higginbotham
 Joan Hickson
@@ -17971,7 +18011,7 @@ Joan Blackman
 Joan Birman
 Joan Benoit
 Joan Bennett
-Queen of Scots
+Joan Beaufort
 Joan Baez
 Joan Armatrading
 Joan Allen
@@ -17979,7 +18019,7 @@ Joan Aiken
 Joan A. Steitz
 Joachim Trier
 Joachim Fischer Nielsen
-Duke of Anhalt
+Joachim Ernst
 Joachim Andersen
 Jo-Ane van Dyk
 Jo Yu-ri
@@ -17996,6 +18036,7 @@ Jo Durie
 Jo Cox
 Jo Brigden-Jones
 Jo Bo-ah
+Jisoo
 Jioji Konrote
 Jintara Poonlarp
 Jinseong of Silla
@@ -18019,6 +18060,7 @@ Jimena Pérez
 Jimena Díaz
 Jim Parrack
 Jim Neidhart
+Jim Brown
 Jillian Weir
 Jillian Rose Reed
 Jillian Murray
@@ -18228,6 +18270,7 @@ Jeremy Abbott
 Jere Uronen
 Jeralean Talley
 Jeongyeon
+Jeong Yu-mi
 Jeong Gyeong-mi
 Jeong Da-bin
 Jeong Bo-kyeong
@@ -18504,6 +18547,7 @@ Jean Rhys
 Jean Ragnotti
 Jean Porter
 Jean Pickering
+Jean Petit
 Jean Peters
 Jean Parker
 Jean Muir
@@ -18745,7 +18789,7 @@ Jane Campion
 Jane Campbell
 Jane Bryan
 Jane Bowles
-Viscountess Rochford
+Jane Boleyn
 Jane Birkin
 Jane Bell
 Jane Barkman
@@ -18891,7 +18935,7 @@ Jacques Ozanam
 Jacques Martin
 Jacques Freitag
 Jacques Dubochet
-Countess of Hainaut
+Jacqueline
 Jacqueline Woodson
 Jacqueline Wilson
 Jacqueline Susann
@@ -19102,37 +19146,37 @@ Isabelle Axelsson
 Isabelle Aubret
 Isabelle Andersson
 Isabelle Adjani
-Queen of Armenia
-Princess of Asturias
-Duchess of Lorraine
-Countess of Vertus
-Countess of Gloucester
+Isabella
+Isabella
+Isabella
+Isabella
+Isabella
 Isabella Straub
 Isabella Stewart Gardner
 Isabella Rossellini
 Isabella of Villehardouin
-Duchess of Bourbon
+Isabella of Valois
 Isabella of Valois
 Isabella of Urgell
-Duchess of Brittany
+Isabella of Scotland
 Isabella of Savoy
-Queen of Castile
-Duchess of Burgundy
+Isabella of Portugal
+Isabella of Portugal
 Isabella of Portugal
 Isabella of Hainault
-Queen of Navarre
+Isabella of France
 Isabella of France
 Isabella of England
 Isabella of Clermont
-Queen of Aragon
-Duchess of York
-Queen of Germany
+Isabella of Castile
+Isabella of Castile
+Isabella of Burgundy
 Isabella of Bourbon
 Isabella of Austria
-Queen of Portugal
-Queen of Germany
-Queen of France
-Duchess of Milan
+Isabella of Aragon
+Isabella of Aragon
+Isabella of Aragon
+Isabella of Aragon
 Isabella of Angoulême
 Isabella Ochichi
 Isabella Menin
@@ -19149,7 +19193,7 @@ Isabella I of Jerusalem
 Isabella I of Castile
 Isabella di Morra
 Isabella de' Medici
-Duchess of Parma
+Isabella d'Este
 Isabella d'Este
 Isabella Colbran
 Isabella Clara Eugenia
@@ -19164,7 +19208,7 @@ Isabell Werth
 Isabell Herlovsen
 Isabeli Fontana
 Isabela Moner
-Princess Imperial of Brazil
+Isabel
 Isabel-Clara Simó
 Isabel Sarli
 Isabel Sanford
@@ -19172,12 +19216,12 @@ Isabel Preysler
 Isabel Pantoja
 Isabel of Coimbra
 Isabel of Barcelos
-Duchess of Clarence
+Isabel Neville
 Isabel Moctezuma
 Isabel May
 Isabel Martínez de Perón
 Isabel Marie Gose
-Princess of Beira
+Isabel Luísa
 Isabel Lucas
 Isabel Lohau
 Isabel Kerschowski
@@ -19462,8 +19506,8 @@ Ingegerd of Norway
 Ingeborga Dapkūnaitė
 Ingeborg of Norway
 Ingeborg of Kiev
-Queen of Norway
-Queen of France
+Ingeborg of Denmark
+Ingeborg of Denmark
 Ingeborg Magnusdotter of Sweden
 Ingeborg Løyning
 Ingeborg Eriksdotter of Sweden
@@ -19487,9 +19531,9 @@ Inga Swenson
 Inga Gentzel
 Inga Fischer-Hjalmars
 Inga Abitova
-Duke of Calabria
+Infante Alfonso
 Infanta Sofía of Spain
-Duchess of Badajoz
+Infanta Pilar
 Infanta Marie Anne of Portugal
 Infanta Maria Theresa of Portugal
 Infanta María Teresa of Spain
@@ -19507,12 +19551,12 @@ Infanta Maria Antonia of Portugal
 Infanta Maria Anna of Portugal
 Infanta Maria Ana Francisca of Portugal
 Infanta María Amalia of Spain
-Duchess of Soria
-Duchess of Montpensier
+Infanta Margarita
+Infanta Luisa Fernanda
 Infanta Isabel Maria of Braganza
 Infanta Isabel Fernanda of Spain
 Infanta Eulalia of Spain
-Duchess of Lugo
+Infanta Elena
 Infanta Cristina of Spain
 Infanta Catherine Michelle of Spain
 Infanta Blanca of Spain
@@ -19521,8 +19565,8 @@ Infanta Beatriz of Spain
 Infanta Antónia of Portugal
 Infanta Ana de Jesus Maria of Braganza
 Infanta Amalia of Spain
-Duchess of Calabria
-Duchess of Guimarães
+Infanta Alicia
+Infanta Adelgundes
 Inez Milholland
 Ineya
 Ineta Radēviča
@@ -19685,7 +19729,7 @@ Idina Menzel
 İdil Biret
 Idea Vilariño
 Idalys Ortiz
-Countess of Boulogne
+Ida
 Ida Vitale
 Ida Tarbell
 Ida Straus
@@ -19768,10 +19812,10 @@ Hülya Avşar
 Huldah
 Hulda Garborg
 Hui Ruoqi
-duc de Bassano
+Hugues-Bernard Maret
 Hugo von Pohl
 Hugo Henrique Assis do Nascimento
-Duke of Burgundy
+Hugh II
 Hudson Leick
 Huda Zoghbi
 Huda Sha'arawi
@@ -19873,6 +19917,7 @@ Hồ Xuân Hương
 Ho Jong-suk
 Ho Ching
 Hjördis Nordin
+Hitoshi Sasaki
 Hitomi Yoshizawa
 Hitomi Shimatani
 Hitomi Obara
@@ -19883,7 +19928,7 @@ Hitomi
 Hito Steyerl
 Hisui Haza
 Hisashi Jogo
-Princess Takamado
+Hisako
 Hisako Kanemoto
 Hiroyuki Yoshida
 Hiroyuki Sawada
@@ -20018,7 +20063,7 @@ Hermann Oldenberg
 Hermann Gröhe
 Hermann Goetz
 Herman Van Springel
-Margrave of Baden
+Herman III
 Herma Szabo
 Herma Bauma
 Herleva
@@ -20037,16 +20082,16 @@ Henutsen
 Henutmire
 Henryk Zygalski
 Henryk Siemiradzki
-Count Palatine of the Rhine
+Henry VI
 Henry Vestine
-Duke of Brunswick-Lüneburg
+Henry V
 Henry V of England
 Henry Taylor
 Henry Simmons
 Henry Raspe
 Henry Maitland Wilson
 Henry Kuttner
-Margrave of Austria
+Henry I
 Henry Hyndman
 Henry Cejudo
 Henry Berengar
@@ -20067,16 +20112,16 @@ Henrietta Ónodi
 Henrietta of England
 Henrietta Maria of France
 Henrietta Lacks
-2nd Duchess of Marlborough
+Henrietta Godolphin
 Henrietta Edwards
 Henriett Seth F.
 Henrieta Nagyová
 Henrieta Farkašová
 Henri Pousseur
-Viscount of Turenne
-Duke of Aumale
+Henri de La Tour d'Auvergne
+Henri d'Orléans
 Henri Colpi
-Marquis of Cinq-Mars
+Henri Coiffier de Ruzé
 Henny Reistad
 Henny Porten
 Henning Enoksen
@@ -20162,10 +20207,10 @@ Helena Rasiowa
 Helena Rakoczy
 Helena Pilejczyk
 Helena Paulo
-Queen of Hungary
+Helena of Serbia
 Helena of Moscow
 Helena of Denmark
-Empress of Serbia
+Helena of Bulgaria
 Helena Nordheim
 Helena Norberg-Hodge
 Helena Noguerra
@@ -20299,10 +20344,10 @@ Hedwig of Silesia
 Hedwig of Saxony
 Hedwig of Holstein
 Hedwig of Denmark
-Duchess of Brunswick-Wolfenbüttel
+Hedwig of Brandenburg
 Hedwig Kohn
-Electress of Brandenburg
-Duchess of Bavaria
+Hedwig Jagiellon
+Hedwig Jagiellon
 Hedwig Eleonora of Holstein-Gottorp
 Hedwig Dohm
 Hedwig Courths-Mahler
@@ -20398,7 +20443,7 @@ Hayam Wuruk
 Haya Rashed Al-Khalifa
 Haya Harareet
 Haya bint Hussein
-Duchess of Brittany
+Hawise
 Hawise of Normandy
 Hawi Feysa
 Hawa Abdi
@@ -20597,7 +20642,7 @@ Hande Baladın
 Handan Sultan
 Hanan Ashrawi
 Hanan al-Shaykh
-Princess Hitachi
+Hanako
 Hanae Shibata
 Hana Takahashi
 Hana Soukupová
@@ -20772,7 +20817,7 @@ Gunter Demnig
 Gunta Stölzl
 Gunnor
 Gunnhildr Sveinsdóttir
-Mother of Kings
+Gunnhild
 Gunnel Vallquist
 Gunnel Lindblom
 Gunnar Lindström
@@ -21005,7 +21050,7 @@ Goro Yamada
 Goro Kawanami
 Gorka Izagirre
 Gøril Snorroeggen
-Queen of Sparta
+Gorgo
 Gordon Pirie
 Gorden Kaye
 Goran Rubil
@@ -21044,7 +21089,7 @@ Glykeria
 Glukoza
 Glückel of Hameln
 Glory Alozie
-Princess of Thurn and Taxis
+Gloria
 Gloria Vanderbilt
 Gloria Trevi
 Gloria Talbott
@@ -21137,8 +21182,8 @@ Gisèle Halimi
 Gisèle Freund
 Gisèle Casadesus
 Gisele Bündchen
-daughter of Louis the Pious
-Abbess of Chelles
+Gisela
+Gisela
 Gisela Uhlen
 Gisela Pulido
 Gisela of Swabia
@@ -21243,6 +21288,7 @@ Gilbert Thomas Burnett
 Gila Gamliel
 Gila Almagor
 Gil Young-ah
+Gil
 Gijs Van Hoecke
 Gigliola Cinquetti
 Gigi Leung
@@ -21309,7 +21355,7 @@ Gertrude of Merania
 Gertrude of Hohenberg
 Gertrude of Brunswick
 Gertrude of Bavaria
-Duchess of Bohemia
+Gertrude of Babenberg
 Gertrude of Austria
 Gertrude Mary Cox
 Gertrude Liebhart
@@ -21352,8 +21398,8 @@ Gerda Steyn
 Gerda Steinhoff
 Gerda Lerner
 Gerda Christian
-wife of Carloman I
-Countess of Provence
+Gerberga
+Gerberga
 Gerberga of Saxony
 Gerben Karstens
 Gérard Lopez
@@ -21391,7 +21437,7 @@ Georgie Twigg
 Georgie Moir
 Georgie Henley
 Georgiana Dedu
-Duchess of Devonshire
+Georgiana Cavendish
 Georgia Winkcup
 Georgia Vasilopoulou
 Georgia Taylor-Brown
@@ -21414,7 +21460,7 @@ Georgette Leblanc
 Georgette Heyer
 Georgeta Damian
 Georges Lacombe
-Prince of Schaumburg-Lippe
+George William
 George Saunders
 George Sand
 George Pólya
@@ -21515,7 +21561,7 @@ Gaspara Stampa
 Gary Naysmith
 Gary Mabbutt
 Garth Nix
-Countess of Forcalquier
+Garsenda
 Garry Rodrigues
 Garrett Clayton
 Garima Chaudhary
@@ -21748,6 +21794,7 @@ Freida Lim
 Fréhel
 Freema Agyeman
 Fredrika Bremer
+Fredrik Jensen
 Frederuna
 Frédérique Vidal
 Frederique van der Wal
@@ -21756,10 +21803,10 @@ Frédérique Matla
 Frédérique Jossinet
 Frédérique Bel
 Frederik Willems
-Hereditary Prince of Anhalt-Dessau
-Duke of Lower Lorraine
-Elector Palatine
-Duke of Mecklenburg-Schwerin
+Frederick
+Frederick
+Frederick II
+Frederick II
 Frederica von Stade
 Frederica Sagor Maas
 Frederica of Mecklenburg-Strelitz
@@ -21806,7 +21853,7 @@ Frank Chapman
 Frank Chamizo
 Franghiz Ali-Zadeh
 Françoise-Louise de Warens
-Marquise de Montespan
+Françoise-Athénaïs de Rochechouart
 Françoise Sagan
 Françoise Rosay
 Françoise Nyssen
@@ -21824,7 +21871,7 @@ Françoise Dorléac
 Françoise Dolto
 Françoise Demulder
 Françoise d'Eaubonne
-Marquise de Maintenon
+Françoise d'Aubigné
 Françoise d'Alençon
 Françoise Combes
 Françoise Bettencourt Meyers
@@ -21834,7 +21881,7 @@ Françoise Abanda
 François-Joachim de Pierre de Bernis
 Francois Pienaar
 François Marie Daudin
-Prince of Conti
+François Louis
 François Affolter
 Franco Marini
 Franco Chioccioli
@@ -21843,6 +21890,7 @@ Franck Kessié
 Franck Durix
 Franciszka Urszula Radziwiłłowa
 Franciska Gaal
+Francisco Portillo
 Francisco Pérez Sanchez
 Francisco Javier Errázuriz Ossa
 Francisca Ordega
@@ -21850,7 +21898,7 @@ Francisca Lara
 Francisca Crovetto
 Francis X. Bushman
 Francis Ponge
-Duke of Saxe-Coburg-Saalfeld
+Francis Josias
 Francis Gillot
 Francis Ford
 Francine York
@@ -21862,7 +21910,7 @@ Francia Márquez
 Franchinus Gaffurius
 Franceska Mann
 Francesco Mario Pagano
-Duke of Rovere and Montefeltro
+Francesco Maria de' Medici
 Francesco Magnanelli
 Francesco Filippini
 Francesco De Gregori
@@ -21913,7 +21961,7 @@ Frances Hodgson Burnett
 Frances Haugen
 Frances Harper
 Frances Hardinge
-Duchess of Suffolk
+Frances Grey
 Frances Gifford
 Frances Fisher
 Frances Farmer
@@ -21948,6 +21996,7 @@ Foxy Brown
 Foxes
 Fouad Chafik
 Forough Farrokhzad
+Formiga
 Fontella Bass
 Fon Tanasoontorn
 Foluke Gunderson
@@ -22094,7 +22143,7 @@ Ferhan Hasani
 Fergie
 Ferenc Farkas
 Ferdinando Terruzzi
-Prince of Asturias
+Ferdinand
 Ferdinand Sarrien
 Ferdinand I of Bulgaria
 Ferdinand de Marsin
@@ -22322,7 +22371,10 @@ Fadwa Garci
 Fabrício André Pires
 Fabiola Zuluaga
 Fabiola Gianotti
+Fábio Lopes
 Fábio César Montezine
+Fábio
+Fabinho
 Fabienne Suter
 Fabienne Schlumpf
 Fabienne Kocher
@@ -22583,10 +22635,10 @@ Eugene
 Eudy Simelane
 Eudoxia Streshneva
 Eudora Welty
-wife of Constantine V
+Eudokia
 Eudokia of Heliopolis
 Eudokia Makrembolitissa
-Lady of Montpellier
+Eudokia Komnene
 Eudokia Ingerina
 Eudokia Dekapolitissa
 Eudokia Baïana
@@ -22707,22 +22759,22 @@ Ernesto Vidal
 Ernestine Schumann-Heink
 Ernestine Rose
 Ernestine Anderson
-Duke of Bavaria
+Ernest
 Erna Solberg
 Erna Siikavirta
 Erna Schneider Hoover
 Erna Bogen-Bogáti
 Erna Berger
 Ermonela Jaho
-Countess of Luxembourg
-Countess of Namur
+Ermesinde
+Ermesinde of Luxembourg
 Ermesinde of Carcassonne
 Ermesinda of Bigorre
 Ermentrude of Orléans
-Viscountess of Narbonne
+Ermengarde
 Ermengarde of Tours
 Ermengarde of Hesbaye
-Duchess of Burgundy
+Ermengarde of Anjou
 Ermengard of Italy
 Erinna
 Erina Yamane
@@ -22912,7 +22964,7 @@ Emmanuelle Arsan
 Emmanuel Scheffer
 Emmanuel Dennis
 Emmaculate Chemtai
-Lady Hamilton
+Emma
 Emma Wright
 Emma Wilson
 Emma Willard
@@ -23163,8 +23215,8 @@ Elvira Saadi
 Elvira Rawson de Dellepiane
 Elvira Popescu
 Elvīra Ozoliņa
-Queen of Sicily
-Countess of Toulouse
+Elvira of Castile
+Elvira of Castile
 Elvira Öberg
 Elvira Notari
 Elvira Nabiullina
@@ -23351,7 +23403,7 @@ Elizabeth Tudor
 Elizabeth Thompson
 Elizabeth the Cuman
 Elizabeth Taylor
-Queen of Bohemia
+Elizabeth Stuart
 Elizabeth Strout
 Elizabeth Stride
 Elizabeth Spriggs
@@ -23370,20 +23422,20 @@ Elizabeth Peña
 Elizabeth Olsen
 Elizabeth of York
 Elizabeth of the Trinity
-Queen of Hungary
+Elizabeth of Sicily
 Elizabeth of Russia
 Elizabeth of Portugal
 Elizabeth of Pomerania
-Queen of Hungary
+Elizabeth of Poland
 Elizabeth of Nevers
 Elizabeth of Luxembourg
-Queen of Serbia
+Elizabeth of Hungary
 Elizabeth of Hungary
 Elizabeth of Görlitz
-Electress of Brandenburg
-Duchess of Mecklenburg
-Duchess of Brunswick-Wolfenbüttel
-Queen of Germany
+Elizabeth of Denmark
+Elizabeth of Denmark
+Elizabeth of Denmark
+Elizabeth of Carinthia
 Elizabeth of Bosnia
 Elizabeth of Bohemia
 Elizabeth of Austria
@@ -23440,15 +23492,15 @@ Elizabeth de Burgh
 Elizabeth David
 Elizabeth Cotten
 Elizabeth Christ Trump
-Madame Palatine
-Electress of Brandenburg
-Duchess of Devonshire
+Elizabeth Charlotte
+Elizabeth Charlotte of the Palatinate
+Elizabeth Cavendish
 Elizabeth Catlett
 Elizabeth Carter
 Elizabeth Cady Stanton
 Elizabeth Bravo
 Elizabeth Bowen
-Countess of Wiltshire
+Elizabeth Boleyn
 Elizabeth Bolden
 Elizabeth Blount
 Elizabeth Blackwell
@@ -23527,7 +23579,7 @@ Elisabetta Dami
 Elisabetta Cocciaretto
 Elisabetta Casellati
 Elisabetta Canalis
-Countess of Vermandois
+Elisabeth
 Elisabeth Willeboordse
 Elisabeth von Gutmann
 Elisabeth Volkenrath
@@ -23549,22 +23601,22 @@ Elisabeth of Wied
 Elisabeth of Valois
 Elisabeth of the Palatinate
 Elisabeth of Swabia
-Duchess of Bavaria
+Elisabeth of Sicily
 Elisabeth of Schönau
 Elisabeth of Romania
 Elisabeth of Nuremberg
 Elisabeth of Lorraine
-Electress Palatine
+Elisabeth of Hesse
 Élisabeth of France
 Elisabeth of France
-Duchess of Saxe-Altenburg
+Elisabeth of Brunswick-Wolfenbüttel
 Elisabeth of Bohemia
-Queen of Germany
-Queen of Belgium
-Electress of Saxony
-Electress of Brandenburg
-Queen of France
-Duchess of Lorraine
+Elisabeth of Bavaria
+Elisabeth of Bavaria
+Elisabeth of Bavaria
+Elisabeth of Bavaria
+Elisabeth of Austria
+Elisabeth of Austria
 Elisabeth of Anhalt-Zerbst
 Elisabeth Noelle-Neumann
 Elisabeth Moss
@@ -23590,7 +23642,7 @@ Elisabeth Dorothea of Saxe-Gotha-Altenburg
 Elisabeth Domitien
 Élisabeth Depardieu
 Élisabeth de Bourbon
-Crown Princess of Prussia
+Elisabeth Christine of Brunswick-Wolfenbüttel
 Elisabeth Christine of Brunswick-Wolfenbüttel-Bevern
 Elisabeth Christine of Brunswick-Wolfenbüttel
 Elisabeth Christina von Linné
@@ -23673,7 +23725,7 @@ Eléonore Denuelle de La Plaigne
 Eleonora Sears
 Eleonora Rossi Drago
 Eleonora Marchiando
-Duchess of Urbino
+Eleonora Gonzaga
 Eleonora Gonzaga
 Eleonora Gonzaga
 Eleonora Giorgi
@@ -23778,8 +23830,8 @@ Eleftherios Petrounias
 Eleftheria Eleftheriou
 Eleftheria Arvanitaki
 Eleazar López Contreras
-Fair Maid of Brittany
-Countess of Vermandois
+Eleanor
+Eleanor
 Eleanor Tomlinson
 Eleanor Roosevelt
 Eleanor Powell
@@ -23792,24 +23844,24 @@ Eleanor of Sicily
 Eleanor of Scotland
 Eleanor of Prussia
 Eleanor of Provence
-Queen of Denmark
-Queen of Aragon
-Holy Roman Empress
+Eleanor of Portugal
+Eleanor of Portugal
+Eleanor of Portugal
 Eleanor of Normandy
 Eleanor of Navarre
-Duchess of Ferrara
-Queen of Castile
-Countess of Leicester
-Countess of Bar
-Queen of Navarre
+Eleanor of Naples
+Eleanor of England
+Eleanor of England
+Eleanor of England
 Eleanor of Castile
 Eleanor of Castile
 Eleanor of Castile
-Queen of Poland
+Eleanor of Castile
+Eleanor of Austria
 Eleanor of Austria
 Eleanor of Arborea
-Queen of Portugal
-Queen of Castile
+Eleanor of Aragon
+Eleanor of Aragon
 Eleanor of Aquitaine
 Eleanor of Anjou
 Eleanor of Alburquerque
@@ -23937,7 +23989,7 @@ Edyta Herbuś
 Edyta Górniak
 Edy Ganem
 Edwina Tops-Alexander
-Countess Mountbatten of Burma
+Edwina Mountbatten
 Edwina Bone
 Edwin Barclay
 Edwige Lawson-Wade
@@ -24050,8 +24102,8 @@ Ebru Gündeş
 Ebrar Karakurt
 Ebony Morrison
 Ebony Drysdale Daley
-Duke of Bavaria
-Duke of Württemberg
+Eberhard
+Eberhard III
 Eberardo Villalobos
 Ebenezer Assifuah
 Ebba Jungmark
@@ -24189,8 +24241,8 @@ Douglas Smith
 Douglas Luiz
 Doug Jones
 Doug Christie
-Countess of Provence
-Countess of Provence
+Douce II
+Douce I
 Doubravka of Bohemia
 Dottie Ardina
 Dotter
@@ -24258,12 +24310,12 @@ Dorothea Susanne of Simmern
 Dorothea of Schleswig-Holstein-Sonderburg-Glücksburg
 Dorothea of Saxe-Lauenburg
 Dorothea of Montau
-Electress Palatine
-Duchess of Prussia
-Duchess of Brunswick-Lüneburg
+Dorothea of Denmark
+Dorothea of Denmark
+Dorothea of Denmark
 Dorothea of Caesarea
 Dorothea of Bulgaria
-Duchess of Mecklenburg
+Dorothea of Brandenburg
 Dorothea of Brandenburg
 Dorothea of Anhalt-Zerbst
 Dorothea Marie of Saxe-Gotha-Altenburg
@@ -24553,7 +24605,7 @@ Dianne Fromholtz
 Dianne Feinstein
 Dianna Agron
 Diann Roffe
-Duchess of Württemberg
+Diane
 Diane Williams
 Diane Warren
 Diane von Fürstenberg
@@ -24585,7 +24637,7 @@ Diane Ackerman
 Diane Abbott
 Diandra Tchatchouang
 Diananda Choirunisa
-Princess of Wales
+Diana
 Diana-Maria Riva
 Diana Žiliūtė
 Diana Zagainova
@@ -24916,6 +24968,7 @@ David Saint-Jacques
 David Rikl
 David McCullough
 David Margulies
+David López
 David Kipiani
 David Hungate
 David Hedison
@@ -25144,6 +25197,7 @@ Dani Stevens
 Dani Rowe
 Dani Olmo
 Dani Lins
+Dani García
 Dangun
 Dang Ye-seo
 Đặng Thị Ngọc Thịnh
@@ -25212,7 +25266,7 @@ Dakota Fanning
 Dakota Blue Richards
 Daji
 Dajana Butulija
-Princess of Pless
+Daisy
 Daisy Shah
 Daisy Ridley
 Daisy Osakue
@@ -25274,7 +25328,7 @@ Cyrielle Duhamel
 Cyréna Samba-Mayela
 Cynthia Weil
 Cynthia Watros
-Countess Spencer
+Cynthia Spencer
 Cynthia Rothrock
 Cynthia Rhodes
 Cynthia Ozick
@@ -25426,7 +25480,7 @@ Corona Schröter
 Cornell Borchers
 Cornelius
 Corneliu Robe
-mother of the Gracchi
+Cornelia
 Cornelia Supera
 Cornelia Sorabji
 Cornelia Salonina
@@ -25491,24 +25545,24 @@ Constantina Diță
 Constantina
 Constantina
 Constanța Burcică
-Queen of Sicily
-Duchess of Brittany
+Constance
+Constance
 Constance Zimmer
 Constance Wu
 Constance Towers
 Constance Talmadge
 Constance of Toulouse
-Queen of Aragon
+Constance of Sicily
 Constance of Portugal
 Constance of Normandy
 Constance of Hungary
-Princess of Antioch
-Duchess of Lancaster
+Constance of France
+Constance of Castile
 Constance of Castile
 Constance of Burgundy
 Constance of Austria
 Constance of Arles
-Queen of Sicily
+Constance of Aragon
 Constance of Aragon
 Constance of Antioch
 Constance Moore
@@ -25522,7 +25576,7 @@ Constance Collier
 Constance Binney
 Constance Bennett
 Consort Ban
-Duke of Carinthia
+Conrad I
 Conor Washington
 Conor Leslie
 Conor Hourihane
@@ -25940,7 +25994,7 @@ Christine Baranski
 Christine Arron
 Christine and the Queens
 Christine Amertil
-Queen of Sweden
+Christina
 Christina Wassen
 Christina Vidal
 Christina Stürmer
@@ -25956,7 +26010,7 @@ Christina of Saxony
 Christina of Salm
 Christina of Lorraine
 Christina of Holstein-Gottorp
-Queen of Sweden
+Christina of Denmark
 Christina of Denmark
 Christina of Bolsena
 Christina Obergföll
@@ -26012,11 +26066,11 @@ Christiane Amanpour
 Christiana Figueres
 Christian Serratos
 Christian Piot
-Prince of Anhalt-Bernburg
+Christian I
 Christian Boltanski
 Christian Bach
-Count Palatine of Sulzbach
-Duke of Holstein-Gottorp
+Christian Augustus
+Christian Albert
 Christen Press
 Christelle Daunay
 Christelle Cornil
@@ -26284,9 +26338,9 @@ Charmane Star
 Charmaine Sheh
 Charlyne Yi
 Charly Mottet
-Queen of Cyprus
-Princess Royal
-Grand Duchess of Luxembourg
+Charlotte
+Charlotte
+Charlotte
 Charlotte Worthington
 Charlotte Wessels
 Charlotte von Stein
@@ -26310,7 +26364,7 @@ Charlotte Perkins Gilman
 Charlotte of Schaumburg-Lippe
 Charlotte of Savoy
 Charlotte of Mecklenburg-Strelitz
-Queen of Cyprus
+Charlotte of Bourbon
 Charlotte of Bourbon
 Charlotte of Albret
 Charlotte Moore Sitterly
@@ -26377,20 +26431,20 @@ Charles Walters
 Charles Walter De Vis
 Charles Schlee
 Charles Pinot Duclos
-Duke of Berry
-Bishop of Wroclaw
+Charles of Valois
+Charles of Austria
 Charles Oakley
 Charles Maung Bo
 Charles Macintosh
 Charles Lee
 Charles Lee
 Charles Kittel
-Duke of Brunswick
-Duke of Savoy
-1st Baron Hardinge of Penshurst
+Charles II
+Charles I
+Charles Hardinge
 Charles David Keeling
 Charles Cyphers
-Princess of Monaco
+Charlene
 Charlene Tilton
 Charlene du Preez
 Charlene Choi
@@ -26498,7 +26552,7 @@ Cédric Burdet
 Cedella Booker
 Cecily von Ziegesar
 Cecily Strong
-Duchess of York
+Cecily Neville
 Cecilie Uttrup Ludwig
 Cecilie Leganger
 Cecilia Wikström
@@ -26522,7 +26576,7 @@ Cecilia Colledge
 Cecilia Cheung
 Cecilia Carranza
 Cecilia Brækhus
-Countess of Strathmore and Kinghorne
+Cecilia Bowes-Lyon
 Cecilia Bolocco
 Cecilia Biagioli
 Cécilia Berder
@@ -26549,7 +26603,7 @@ CeCe Peniston
 Ceca
 CCH Pounder
 Cayla George
-18th Duchess of Alba
+Cayetana Fitz-James Stuart
 Caty McNally
 Catriona Le May Doan
 Catriona Gray
@@ -26575,7 +26629,7 @@ Cathrine Laudrup-Dufour
 Cathleen Synge Morawetz
 Cathleen Nesbitt
 Catherynne M. Valente
-Duchess of Cambridge
+Catherine
 Catherine Zeta-Jones
 Catherine Wolfe Bruce
 Catherine Vasa of Sweden
@@ -26599,19 +26653,19 @@ Catherine of York
 Catherine of Valois–Courtenay
 Catherine of Valois
 Catherine of Vadstena
-Countess Palatine of Kleeburg
+Catherine of Sweden
 Catherine of Siena
-Archduchess of Austria
+Catherine of Saxony
 Catherine of Saxe-Lauenburg
 Catherine of Ricci
 Catherine of Poděbrady
 Catherine of Navarre
 Catherine of Mecklenburg
 Catherine of Lancaster
-Queen of Serbia
+Catherine of Hungary
 Catherine of Genoa
-Countess of Charolais
-Countess of Candale
+Catherine of France
+Catherine of Foix
 Catherine of Cleves
 Catherine of Burgundy
 Catherine of Bulgaria
@@ -26622,9 +26676,9 @@ Catherine of Braganza
 Catherine of Bosnia
 Catherine of Bologna
 Catherine of Bohemia
-Queen of Portugal
-Queen of Poland
-Duchess of Calabria
+Catherine of Austria
+Catherine of Austria
+Catherine of Austria
 Catherine of Aragon
 Catherine of Alexandria
 Catherine O'Hara
@@ -26643,7 +26697,7 @@ Catherine Labouré
 Catherine Keener
 Catherine Karlsdotter
 Catherine Jagiellon
-Latin Empress
+Catherine I
 Catherine I of Russia
 Catherine Howard
 Catherine Hicks
@@ -26661,9 +26715,9 @@ Catherine Dolgorukov
 Catherine Desnitski
 Catherine Dent
 Catherine Deneuve
-Governor of Siena
 Catherine de' Medici
-marquise de Rambouillet
+Catherine de' Medici
+Catherine de Vivonne
 Catherine de Bourbon
 Catherine Cortez Masto
 Catherine Corsini
@@ -26688,7 +26742,7 @@ Catharine Trotter Cockburn
 Catharine Pendrel
 Catharine MacKinnon
 Catharine Macaulay
-Princess of Orange
+Catharina-Amalia
 Catharina van Hemessen
 Catharina of Württemberg
 Catharina Lodders
@@ -26792,7 +26846,7 @@ Carolyn Jones
 Carolyn Hennesy
 Carolyn Hayes
 Carolle Zahi
-Princess of Hanover
+Caroline
 Caroline Wozniacki
 Caroline Williams
 Caroline Weir
@@ -26921,7 +26975,7 @@ Carmen Sevilla
 Carmen Salinas
 Carmen Reinhart
 Carmen Posadas
-1st Lady of Meirás
+Carmen Polo
 Carmen Pereira
 Carmen Miranda
 Carmen McRae
@@ -26936,7 +26990,7 @@ Carmen Kass
 Carmen Jordá
 Carmen Herrera
 Carmen Hart
-1st Duchess of Franco
+Carmen Franco
 Carmen Electra
 Carmen Ejogo
 Carmen Dell'Orefice
@@ -26975,6 +27029,8 @@ Carlos Slim
 Carlos Reygadas
 Carlos Lampe
 Carlos Germano
+Carlos Fernández
+Carlos Fernandes
 Carlos Eduardo Bendini Giusti
 Carlos Babington
 Carlos Agostinho do Rosário
@@ -27117,7 +27173,7 @@ Camille Buscomb
 Camille Ayglon
 Camille Abily
 Camille
-Duchess of Cornwall
+Camilla
 Camilla Wicks
 Camilla Richardsson
 Camilla Martin
@@ -27462,13 +27518,13 @@ Božena Němcová
 Boudica
 Bouchra Ghezielle
 Boualem Khoukhi
-Margrave of Tuscany
+Boso
 Boryana Kaleyn
 Börte
 Borka Pavićević
 Borjana Krišto
 Borja López
-Duke of Bohemia
+Bořivoj II
 Boris Eikhenbaum
 Boran
 Bonnie Wright
@@ -27560,14 +27616,14 @@ Blandina
 Blanche Sweet
 Blanche Stuart Scott
 Blanche of Valois
-Queen of France
-Duchess of Brittany
-Countess of Champagne
+Blanche of Navarre
+Blanche of Navarre
+Blanche of Navarre
 Blanche of Namur
 Blanche of Montferrat
 Blanche of Lancaster
-Duchess of Orléans
-Duchess of Austria
+Blanche of France
+Blanche of France
 Blanche of England
 Blanche of Castile
 Blanche of Burgundy
@@ -27588,7 +27644,7 @@ Blanca Suárez
 Blanca Soto
 Blanca Portillo
 Blanca Paloma
-Queen of Castile
+Blanca of Navarre
 Blanca Manchón
 Blanca Fernández Ochoa
 Blake Lively
@@ -27618,7 +27674,7 @@ Birutė
 Birthe Wilke
 Birthe Kjær
 Birhane Dibaba
-Duchess of Gloucester
+Birgitte
 Birgitte Hjort Sørensen
 Birgitta Trotzig
 Birgitta Jónsdóttir
@@ -27875,7 +27931,7 @@ Bersant Celina
 Berry Berenson
 Bernice Rubens
 Bernice Liu
-Duke of Saxe-Meiningen
+Bernhard I
 Bernd Stange
 Bernardino Drovetti
 Bernardino Caballero
@@ -27935,6 +27991,7 @@ Benedetta Pilato
 Bendere Oboya
 Benazir Bhutto
 Ben Woodburn
+Ben Watson
 Ben Godfrey
 Ben Barres
 Belva Ann Lockwood
@@ -28003,7 +28060,7 @@ Bebe Daniels
 Bebe
 Beba Lončar
 Beau Garrett
-Duchess of Viseu
+Beatriz
 Beatriz Souza
 Beatriz Segall
 Beatriz Pirón
@@ -28034,15 +28091,15 @@ Beatrice of Vermandois
 Beatrice of Swabia
 Beatrice of Silva
 Beatrice of Silesia
-Latin Empress
+Beatrice of Sicily
 Beatrice of Savoy
 Beatrice of Rethel
 Beatrice of Provence
-Duchess of Savoy
 Beatrice of Portugal
 Beatrice of Portugal
-Duchess of Burgundy
-Countess of La Marche
+Beatrice of Portugal
+Beatrice of Navarre
+Beatrice of Navarre
 Beatrice of Naples
 Beatrice of Luxembourg
 Beatrice of Lorraine
@@ -28050,20 +28107,20 @@ Beatrice of France
 Beatrice of England
 Beatrice of Castile
 Beatrice of Castile
-Lady of Bourbon
-Queen of Bohemia
+Beatrice of Burgundy
+Beatrice of Bourbon
 Beatrice of Bavaria
 Beatrice Mintz
 Beatrice Lorenzin
 Beatrice Lillie
-Countess of Burgundy
-Countess of Burgundy
+Beatrice II
+Beatrice I
 Beatrice Hicks
 Beatrice Fihn
 Beatrice Faumuina
 Béatrice Edwige
 Béatrice Dalle
-Queen of Hungary
+Beatrice d'Este
 Beatrice d'Este
 Beatrice Chepkoech
 Beatrice Chebet
@@ -28143,7 +28200,7 @@ Bärbel Bas
 Barbara Zápolya
 Barbara Windsor
 Barbara West
-Baroness Jackson of Lodsworth
+Barbara Ward
 Barbara Walters
 Barbara Wagner
 Barbara W. Tuchman
@@ -28174,10 +28231,10 @@ Barbara Perry
 Barbara Paulus
 Barbara Parkins
 Barbara Palvin
-1st Duchess of Cleveland
+Barbara Palmer
 Barbara of Portugal
 Barbara of Cilli
-Marquise of Mantua
+Barbara of Brandenburg
 Barbara of Brandenburg
 Barbara O'Neil
 Barbara Nichols
@@ -28473,10 +28530,10 @@ Aunjanue Ellis
 Aung San Suu Kyi
 Aulus Cremutius Cordus
 Auliʻi Cravalho
-Count Palatine of Sulzbach
+Augustus
 Augusto da Costa
 Auguste von Harrach
-Lady Gregory
+Augusta
 Augusta Victoria of Schleswig-Holstein
 Augusta Victoria of Hohenzollern
 Augusta Savage
@@ -28722,6 +28779,7 @@ Arthur Moritz Schoenflies
 Arthur Melo
 Arthur Masuaku
 Arthur Maia
+Arthur Johnson
 Arthur Crudup
 Artemisia II of Caria
 Artemisia I of Caria
@@ -28997,7 +29055,7 @@ Antonella Mularoni
 Antonella Lualdi
 Antonella Bellutti
 Antonela Fortuna
-Duke of Saxe-Meiningen
+Anton Ulrich
 Anton Tkáč
 Anton Tinnerholm
 Anton Lesser
@@ -29167,9 +29225,9 @@ Annekatrin Thiele
 Anneisha McLaughlin-Whilby
 Annegret Richter
 Annegret Kramp-Karrenbauer
-Queen of Great Britain
-Princess Royal and Princess of Orange
-Princess Royal
+Anne
+Anne
+Anne
 Anne-Sophie Mutter
 Anne-Marie Rindom
 Anne-Marie Lizin
@@ -29221,24 +29279,25 @@ Anne Ramsay
 Anne Perry
 Anne Parillaud
 Anne Ottenbrite
+Anne Osborn Krueger
 Anne of York
 Anne of Kiev
 Anne of France
 Anne of Foix-Candale
-Electress of Saxony
+Anne of Denmark
 Anne of Denmark
 Anne of Cyprus
 Anne of Cleves
 Anne of Burgundy
 Anne of Brittany
-Duchess of Silesia
+Anne of Bohemia
 Anne of Bohemia and Hungary
 Anne of Bohemia
 Anne of Bohemia
 Anne of Bavaria
-Queen of Poland
-Margravine of Brandenburg
-Landgravine of Thuringia
+Anne of Austria
+Anne of Austria
+Anne of Austria
 Anne of Austria
 Anne Neville
 Anne Murray
@@ -29249,7 +29308,7 @@ Anne McLaren
 Anne McClain
 Anne McCaffrey
 Anne Marie Martinozzi
-Duchess of Montpensier
+Anne Marie Louise d'Orléans
 Anne Marie d'Orléans
 Anne Margrethe Hausken
 Anne Lockhart
@@ -29298,7 +29357,7 @@ Anne Dorthe Tanderup
 Anne Donovan
 Anne Desclos
 Anne de Pisseleu d'Heilly
-8th Countess of Norfolk
+Anne de Mowbray
 Anne de Mortimer
 Anne de Montmorency
 Anne Dacier
@@ -29306,7 +29365,7 @@ Anne Curtis
 Anne Conway
 Anne Consigny
 Anne Cibis
-Princess of Piedmont
+Anne Christine of Sulzbach
 Anne Catherine of Brandenburg
 Anne Catherine Emmerich
 Anne Carson
@@ -29447,7 +29506,7 @@ Anna Ostroumova-Lebedeva
 Anna Olsson
 Anna Olasz
 Anna of Tyrol
-Queen of Georgia
+Anna of Trebizond
 Anna of Trebizond
 Anna of Sweden
 Anna of Saxony
@@ -29460,7 +29519,7 @@ Anna of Hesse
 Anna of Cleves
 Anna of Cilli
 Anna of Brandenburg
-Queen of Spain
+Anna of Austria
 Anna Odobescu
 Anna Odine Strøm
 Anna O'Flanagan
@@ -29615,7 +29674,7 @@ Anna Diop
 Anna Diamantopoulou
 Anna Demidova
 Anna Deavere Smith
-Archduchess of Austria
+Anna de' Medici
 Anna de Noailles
 Anna Danilina
 Anna Danesi
@@ -29665,7 +29724,7 @@ Anna Anvegård
 Anna Anka
 Anna Anderson
 Anna Ancher
-Abbess of Quedlinburg
+Anna Amalia
 Anna Aloys Henga
 Anna Alminova
 Anna Akhmatova
@@ -29963,7 +30022,7 @@ Angela Cartwright
 Angela Carter
 Angela Carini
 Angela Buxton
-1st Baroness Burdett-Coutts
+Angela Burdett-Coutts
 Angela Bettis
 Angela Bassett
 Angela Bailey
@@ -30310,7 +30369,7 @@ Ana Dulce Félix
 Ana Đokić
 Ana Derșidan-Ene-Pascu
 Ana Đerek
-Princess of Eboli
+Ana de Mendoza
 Ana de la Reguera
 Ana de Armas
 Ana Dabović
@@ -30609,7 +30668,7 @@ Amaia Salamanca
 Amaia Montero
 Amaia
 Amado Nervo
-Duke of Savoy
+Amadeus IX
 Ama Pipi
 Ama K. Abebrese
 Ama Ata Aidoo
@@ -30634,7 +30693,7 @@ Alysia Reiner
 Alysha Newman
 Alysa Liu
 Alys Thomas
-Countess of Vexin
+Alys of France
 Alyosha
 Alyona Lanskaya
 Alyona Alyona
@@ -30747,7 +30806,7 @@ Aliya Mustafina
 Aliya Moldagulova
 Aliya Garayeva
 Aliya bint Ali
-Duchess of Brittany
+Alix
 Alix of France
 Alix Klineman
 Alix Duchet
@@ -30984,7 +31043,7 @@ Alfreda Markowska
 Alfred Gomis
 Alfred Bohrmann
 Alfre Woodard
-Prince of Asturias
+Alfonso
 Alfonsina Storni
 Alfhild Agrell
 Aleyna Tilki
@@ -31024,7 +31083,7 @@ Alexandria Villaseñor
 Alexandria Ocasio-Cortez
 Alexandria Mills
 Alexandria Loutitt
-Countess of Frederiksborg
+Alexandra
 Alexandra Zabelina
 Alexandra Walsh
 Alexandra Vandernoot
@@ -31117,6 +31176,7 @@ Alexa Davalos
 Alexa Chung
 Alexa Bliss
 AleXa
+Alex Scott
 Alex Morgan
 Alex Matthews
 Alex Maloney
@@ -31211,6 +31271,7 @@ Aleksandra Beļcova
 Aleksandra Babintseva
 Aleksandr Yerokhin
 Aleksandr Lazutkin
+Aleksandr Konovalov
 Aleksa Palladino
 Aleka Persaud
 Alek Wek
@@ -31228,6 +31289,7 @@ Aleida Assmann
 Aleia Hobbs
 Alegna González
 Aleen Bailey
+Alê
 Aldona of Lithuania
 Aldis Hodge
 Aldila Sutjiadi
@@ -31253,10 +31315,11 @@ Albert Zürner
 Albert Vanhoye
 Albert Tomàs
 Albert Timmer
+Albert Rusnák
 Albert Meyong
 Albert Lee
-Duke of Saxony
-Duke of Saxony
+Albert II
+Albert I
 Albert Dupontel
 Albert Cossery
 Albena Denkova
@@ -31331,6 +31394,7 @@ Akiko Morigami
 Akiko Hayakawa
 Akiho Yoshizawa
 Akihiro Yoshida
+Akihiro Sato
 Akihiro Noda
 Akie Abe
 Aki Toyosaki
@@ -31424,7 +31488,7 @@ Aileen Meagher
 Aileen Crowley
 Aileen Baviera
 Ailee
-Princess Toshi
+Aiko
 Aiko Sugihara
 Aiko Nakamura
 Aiko
@@ -31539,21 +31603,21 @@ Agnes of Poitou
 Agnes of Montepulciano
 Agnes of Merania
 Agnes of Hesse
-Duchess of Burgundy
-Byzantine Empress
+Agnes of France
+Agnes of France
 Agnes of Dampierre
 Agnes of Courtenay
-Duchess of Bourbon
-Duchess of Aquitaine
+Agnes of Burgundy
+Agnes of Burgundy
 Agnes of Brandenburg
 Agnes of Bohemia
 Agnes of Babenberg
 Agnes of Austria
 Agnes of Austria
 Agnes of Assisi
-Queen of León and Castile
-Queen of Aragon and Navarre
-Queen of Aragon
+Agnes of Aquitaine
+Agnes of Aquitaine
+Agnes of Aquitaine
 Agnes of Antioch
 Agnes Obel
 Ágnes Nemes Nagy
@@ -31613,7 +31677,7 @@ Afshan Azad
 Afrodite Zegers
 África Zamorano
 Afra Saraçoğlu
-Prince of Portugal
+Afonso
 Afonso Dhlakama
 Afife Jale
 Afghan Girl
@@ -31641,8 +31705,8 @@ Aelia Flaccilla
 Aelia Eudoxia
 Aelia Eudocia
 Ælfwynn
-wife of Edgar
-Countess of Flanders
+Ælfthryth
+Ælfthryth
 Ælfgifu of Shaftesbury
 Ælfgifu of Northampton
 Ælfflæd
@@ -31697,12 +31761,13 @@ Adrián González
 Adrian Gaxha
 Adriaan van Maanen
 Adria Arjona
-Duke of Mecklenburg-Strelitz
-1st Marquess of Cambridge
+Adolphus Frederick II
+Adolphus Cambridge
 Adolfo Nef
 Adolf Windaus
 Adolf Wiklund
 Adolf Lu Hitler Marak
+Aditi Sharma
 Aditi Rao Hydari
 Aditi Govitrikar
 Aditi Ashok
@@ -31736,9 +31801,9 @@ Adele Goldberg
 Adèle Exarchopoulos
 Adele Astaire
 Adele
-Countess of Vermandois
-Countess of Burgundy
-Abbess of Vilich
+Adelaide
+Adelaide
+Adelaide
 Adelaide-Blanche of Anjou
 Adelaide of Vohburg
 Adelaide of Susa
@@ -31794,11 +31859,12 @@ Adam Gemili
 Adam Clayton
 Adam Blythe
 Adalet Ağaoğlu
-Duke of Lorraine
+Adalbert
 Adalard of Corbie
+Adaílton
 Adah Sharma
 Adaa Khan
-Countess of Holland
+Ada
 Ada Yonath
 Ada Rogovtseva
 Ada of Caria
@@ -31824,7 +31890,7 @@ Abiola Ogunbanwo
 Abigél Joó
 Abigail Spencer
 Abigail Spears
-Baroness Masham
+Abigail Masham
 Abigail Johnston
 Abigail Johnson
 Abigail Irozuru
